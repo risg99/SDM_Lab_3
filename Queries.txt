@@ -1,0 +1,44 @@
+All Queries:-
+
+1. Find all Authors.
+
+	PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	PREFIX lab: <http://SDM_LAB3.org/>
+
+	SELECT ?authorName
+	WHERE
+	{
+	    ?author rdf:type lab:Author .
+	    ?author lab.name ?authorName
+	}
+
+
+2. Find all properties whose domain is Author.
+
+	PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	PREFIX lab: <http://SDM_LAB3.org/>
+
+	SELECT ?propertyName
+	WHERE
+	{
+	    ?propertyName rdfs:domain lab:Author .
+	}
+
+
+3. Find all properties whose domain is either Conference or Journal.
+
+	PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	PREFIX lab: <http://SDM_LAB3.org/
+	
+	SELECT ?propertyName
+	WHERE 
+	{
+		{?propertyName rdfs:domain lab:Conference}
+		UNION
+		{?propertyName rdfs:domain lab:Journal}
+	}
+
+# TODO
+4. Find all the papers written by a given author that where published in database conferences.
+
+
