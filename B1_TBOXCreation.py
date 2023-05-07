@@ -208,6 +208,13 @@ def createTBOX():
 	graph.add((LAB.journalTitle, RDFS.subPropertyOf, LAB.title))
 	graph.add((LAB.journalTitle, RDFS.label, Literal("journalTitle")))
 
+	# additional properties of paper
+	graph.add((LAB.paperAbstract, RDF.type, RDF.Property))
+	graph.add((LAB.paperAbstract, RDFS.domain, LAB.Paper))
+	graph.add((LAB.paperAbstract, RDFS.range, XSD.string))
+	# graph.add((LAB.paperAbstract, RDFS.subPropertyOf, LAB.title))
+	graph.add((LAB.paperAbstract, RDFS.label, Literal("paperAbstract")))
+
 	return graph
 
 graph = createTBOX()
