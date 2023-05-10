@@ -213,6 +213,9 @@ def createTBOX():
 	graph.add((LAB.keywords, RDFS.range, XSD.string))
 	graph.add((LAB.keywords, RDFS.label, Literal("keywords")))
 
+	paper -> 'db',
+	paper -> mobilitydb, ml
+
 	# --------------------- 5) Review related Classes --------------------------- #
 	graph.add((LAB.ReviewText, RDF.type, RDFS.Class))
 	graph.add((LAB.ReviewText, RDFS.label, Literal("ReviewText")))
