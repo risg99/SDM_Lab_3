@@ -1,824 +1,824 @@
-journalId,editorId,authorId
-j0,editor0,a9128
-j1,editor1,a1135
-j2,editor2,a3505
-j3,editor3,a10661
-j4,editor4,a5527
-j5,editor5,a940
-j6,editor6,a4373
-j7,editor7,a10136
-j8,editor8,a7684
-j9,editor9,a6335
-j10,editor10,a153
-j11,editor11,a6488
-j12,editor12,a4737
-j13,editor13,a2030
-j14,editor14,a4540
-j15,editor15,a6875
-j16,editor16,a3479
-j17,editor17,a1213
-j18,editor18,a9195
-j1,editor19,a2861
-j19,editor20,a3223
-j20,editor21,a2283
-j21,editor22,a4283
-j22,editor23,a2481
-j23,editor24,a6255
-j24,editor25,a7303
-j25,editor26,a5262
-j26,editor27,a8014
-j27,editor28,a1490
-j28,editor29,a7075
-j29,editor30,a4567
-j5,editor31,a5106
-j30,editor32,a1845
-j31,editor33,a10373
-j32,editor34,a9810
-j33,editor35,a4582
-j32,editor36,a2
-j34,editor37,a9020
-j35,editor38,a4813
-j36,editor39,a3668
-j37,editor40,a5699
-j38,editor41,a5003
-j39,editor42,a6976
-j40,editor43,a4769
-j41,editor44,a857
-j42,editor45,a133
-j34,editor46,a7498
-j1,editor47,a4141
-j7,editor48,a995
-j43,editor49,a1864
-j44,editor50,a7266
-j37,editor51,a1517
-j45,editor52,a2294
-j46,editor53,a5309
-j47,editor54,a4394
-j7,editor55,a8192
-j48,editor56,a2245
-j49,editor57,a7220
-j50,editor58,a2570
-j20,editor59,a1008
-j51,editor60,a963
-j52,editor61,a4595
-j53,editor62,a8246
-j54,editor63,a8075
-j20,editor64,a1898
-j55,editor65,a5172
-j56,editor66,a1682
-j57,editor67,a7540
-j58,editor68,a4373
-j58,editor69,a10624
-j59,editor70,a2032
-j57,editor71,a5845
-j16,editor72,a4721
-j60,editor73,a467
-j61,editor74,a10180
-j62,editor75,a1015
-j58,editor76,a1608
-j63,editor77,a9305
-j64,editor78,a10553
-j65,editor79,a6223
-j66,editor80,a2920
-j64,editor81,a3519
-j67,editor82,a8891
-j68,editor83,a3655
-j7,editor84,a725
-j19,editor85,a1928
-j69,editor86,a8212
-j70,editor87,a3031
-j71,editor88,a1838
-j72,editor89,a3636
-j73,editor90,a8727
-j74,editor91,a3210
-j75,editor92,a8488
-j76,editor93,a247
-j77,editor94,a9212
-j78,editor95,a5836
-j79,editor96,a7346
-j74,editor97,a6043
-j62,editor98,a2007
-j80,editor99,a2052
-j81,editor100,a756
-j81,editor101,a4480
-j20,editor102,a3297
-j81,editor103,a8213
-j82,editor104,a9317
-j83,editor105,a2790
-j84,editor106,a1535
-j85,editor107,a518
-j86,editor108,a3796
-j87,editor109,a3609
-j88,editor110,a6918
-j89,editor111,a9067
-j90,editor112,a10369
-j91,editor113,a1281
-j92,editor114,a8355
-j93,editor115,a8846
-j94,editor116,a7393
-j95,editor117,a4795
-j96,editor118,a5823
-j97,editor119,a3631
-j14,editor120,a9770
-j62,editor121,a10218
-j98,editor122,a8190
-j99,editor123,a7504
-j100,editor124,a7605
-j0,editor125,a2233
-j8,editor126,a4160
-j101,editor127,a7660
-j102,editor128,a8812
-j103,editor129,a2494
-j26,editor130,a8513
-j104,editor131,a8162
-j105,editor132,a5914
-j58,editor133,a379
-j106,editor134,a6823
-j107,editor135,a5027
-j108,editor136,a7012
-j109,editor137,a9170
-j110,editor138,a4177
-j97,editor139,a3619
-j60,editor140,a2684
-j111,editor141,a2729
-j112,editor142,a10446
-j97,editor143,a6840
-j104,editor144,a401
-j97,editor145,a5369
-j97,editor146,a4787
-j113,editor147,a550
-j114,editor148,a378
-j1,editor149,a8346
-j115,editor150,a174
-j116,editor151,a10089
-j97,editor152,a5763
-j66,editor153,a6448
-j97,editor154,a4652
-j117,editor155,a799
-j118,editor156,a940
-j119,editor157,a69
-j60,editor158,a7203
-j120,editor159,a2453
-j121,editor160,a9182
-j122,editor161,a8522
-j14,editor162,a8569
-j123,editor163,a2358
-j1,editor164,a5794
-j6,editor165,a4065
-j124,editor166,a8485
-j125,editor167,a8962
-j11,editor168,a4307
-j126,editor169,a10449
-j97,editor170,a10143
-j127,editor171,a9095
-j8,editor172,a5548
-j127,editor173,a10629
-j108,editor174,a5979
-j128,editor175,a3232
-j58,editor176,a6402
-j129,editor177,a2856
-j130,editor178,a5673
-j131,editor179,a8825
-j85,editor180,a10063
-j97,editor181,a6246
-j97,editor182,a7807
-j97,editor183,a9692
-j60,editor184,a9384
-j132,editor185,a1002
-j125,editor186,a5188
-j97,editor187,a3086
-j97,editor188,a6989
-j133,editor189,a3915
-j60,editor190,a8245
-j38,editor191,a6449
-j134,editor192,a7250
-j40,editor193,a24
-j96,editor194,a5349
-j135,editor195,a3665
-j136,editor196,a1885
-j14,editor197,a415
-j137,editor198,a3586
-j96,editor199,a8496
-j97,editor200,a1605
-j138,editor201,a3041
-j97,editor202,a496
-j103,editor203,a8363
-j139,editor204,a1811
-j140,editor205,a10672
-j141,editor206,a7836
-j142,editor207,a10395
-j143,editor208,a8249
-j141,editor209,a8029
-j144,editor210,a6309
-j144,editor211,a4750
-j141,editor212,a6959
-j141,editor213,a3057
-j79,editor214,a9260
-j145,editor215,a9951
-j146,editor216,a6714
-j147,editor217,a6969
-j142,editor218,a4279
-j144,editor219,a1738
-j147,editor220,a4263
-j145,editor221,a4576
-j75,editor222,a7154
-j141,editor223,a10468
-j141,editor224,a8981
-j147,editor225,a10675
-j147,editor226,a7334
-j142,editor227,a7383
-j141,editor228,a6115
-j145,editor229,a8903
-j147,editor230,a1294
-j147,editor231,a3415
-j141,editor232,a1182
-j142,editor233,a5454
-j141,editor234,a9728
-j142,editor235,a4606
-j147,editor236,a2256
-j148,editor237,a5867
-j149,editor238,a998
-j145,editor239,a2467
-j141,editor240,a4899
-j141,editor241,a4070
-j142,editor242,a8400
-j144,editor243,a707
-j144,editor244,a3777
-j144,editor245,a9623
-j142,editor246,a3351
-j141,editor247,a1108
-j150,editor248,a3216
-j145,editor249,a9847
-j141,editor250,a7041
-j75,editor251,a8420
-j112,editor252,a8935
-j75,editor253,a63
-j141,editor254,a10332
-j112,editor255,a7015
-j145,editor256,a1369
-j142,editor257,a8851
-j141,editor258,a4179
-j151,editor259,a845
-j152,editor260,a8597
-j75,editor261,a1046
-j144,editor262,a7153
-j47,editor263,a1829
-j145,editor264,a4004
-j153,editor265,a3836
-j154,editor266,a1853
-j144,editor267,a7243
-j141,editor268,a9440
-j147,editor269,a8090
-j141,editor270,a5497
-j155,editor271,a894
-j142,editor272,a4891
-j147,editor273,a3546
-j144,editor274,a8525
-j144,editor275,a10183
-j49,editor276,a1674
-j156,editor277,a1741
-j144,editor278,a8747
-j141,editor279,a7680
-j147,editor280,a7231
-j144,editor281,a10144
-j144,editor282,a6291
-j75,editor283,a4335
-j145,editor284,a7383
-j142,editor285,a4709
-j141,editor286,a3197
-j75,editor287,a5369
-j147,editor288,a7776
-j141,editor289,a10281
-j147,editor290,a4885
-j157,editor291,a10134
-j147,editor292,a7570
-j142,editor293,a4768
-j141,editor294,a10145
-j141,editor295,a6291
-j158,editor296,a7388
-j144,editor297,a2629
-j79,editor298,a3149
-j159,editor299,a166
-j1,editor300,a2957
-j147,editor301,a8049
-j69,editor302,a4748
-j147,editor303,a4983
-j147,editor304,a5741
-j144,editor305,a7141
-j144,editor306,a1832
-j147,editor307,a5320
-j160,editor308,a4913
-j141,editor309,a4033
-j161,editor310,a6227
-j141,editor311,a6875
-j147,editor312,a2776
-j142,editor313,a482
-j152,editor314,a3484
-j142,editor315,a4103
-j141,editor316,a6418
-j147,editor317,a312
-j141,editor318,a7585
-j142,editor319,a10417
-j29,editor320,a5008
-j144,editor321,a6280
-j147,editor322,a7387
-j142,editor323,a6375
-j162,editor324,a5392
-j147,editor325,a5756
-j79,editor326,a4317
-j147,editor327,a1679
-j147,editor328,a10573
-j141,editor329,a5184
-j144,editor330,a6879
-j147,editor331,a9868
-j142,editor332,a977
-j147,editor333,a2388
-j163,editor334,a10233
-j164,editor335,a5434
-j37,editor336,a2296
-j165,editor337,a1170
-j79,editor338,a119
-j144,editor339,a5996
-j142,editor340,a6557
-j166,editor341,a5564
-j142,editor342,a3432
-j147,editor343,a4338
-j141,editor344,a2144
-j141,editor345,a500
-j141,editor346,a10329
-j167,editor347,a8846
-j75,editor348,a3730
-j168,editor349,a3166
-j147,editor350,a1350
-j142,editor351,a8345
-j169,editor352,a3161
-j79,editor353,a7648
-j141,editor354,a4927
-j169,editor355,a6403
-j147,editor356,a353
-j170,editor357,a3337
-j171,editor358,a4315
-j1,editor359,a8948
-j147,editor360,a9256
-j147,editor361,a4283
-j75,editor362,a4818
-j172,editor363,a6638
-j102,editor364,a1987
-j5,editor365,a266
-j0,editor366,a8718
-j173,editor367,a0
-j0,editor368,a2598
-j174,editor369,a2702
-j102,editor370,a5848
-j175,editor371,a1512
-j176,editor372,a5540
-j130,editor373,a7486
-j177,editor374,a8086
-j178,editor375,a3700
-j153,editor376,a8716
-j179,editor377,a9112
-j180,editor378,a1953
-j68,editor379,a7052
-j181,editor380,a4191
-j182,editor381,a7534
-j183,editor382,a1932
-j184,editor383,a8203
-j185,editor384,a1159
-j186,editor385,a1845
-j168,editor386,a9769
-j68,editor387,a7118
-j187,editor388,a9383
-j188,editor389,a4360
-j153,editor390,a73
-j189,editor391,a4574
-j68,editor392,a4698
-j190,editor393,a5580
-j85,editor394,a5918
-j191,editor395,a9305
-j178,editor396,a2747
-j153,editor397,a4825
-j187,editor398,a1395
-j68,editor399,a1043
-j153,editor400,a2508
-j192,editor401,a7199
-j193,editor402,a9083
-j194,editor403,a848
-j195,editor404,a3516
-j153,editor405,a1189
-j85,editor406,a6817
-j196,editor407,a3832
-j153,editor408,a452
-j197,editor409,a7992
-j85,editor410,a6933
-j198,editor411,a3008
-j199,editor412,a8201
-j85,editor413,a5643
-j85,editor414,a4880
-j175,editor415,a6932
-j200,editor416,a10415
-j102,editor417,a335
-j201,editor418,a8470
-j202,editor419,a8564
-j203,editor420,a9564
-j108,editor421,a9476
-j204,editor422,a127
-j85,editor423,a2630
-j205,editor424,a164
-j85,editor425,a8711
-j206,editor426,a3039
-j207,editor427,a5039
-j208,editor428,a2492
-j85,editor429,a9620
-j104,editor430,a5998
-j75,editor431,a7685
-j209,editor432,a3957
-j201,editor433,a10519
-j210,editor434,a2179
-j211,editor435,a408
-j189,editor436,a3604
-j212,editor437,a1161
-j213,editor438,a1664
-j156,editor439,a5605
-j85,editor440,a8584
-j85,editor441,a5398
-j214,editor442,a8890
-j85,editor443,a1738
-j6,editor444,a505
-j85,editor445,a6093
-j215,editor446,a9956
-j85,editor447,a10369
-j216,editor448,a8608
-j108,editor449,a6916
-j217,editor450,a5805
-j199,editor451,a9045
-j218,editor452,a9666
-j108,editor453,a1306
-j213,editor454,a4153
-j85,editor455,a7932
-j219,editor456,a9946
-j220,editor457,a7677
-j85,editor458,a4798
-j201,editor459,a3771
-j221,editor460,a5730
-j85,editor461,a7431
-j222,editor462,a8879
-j223,editor463,a7593
-j224,editor464,a314
-j224,editor465,a5949
-j85,editor466,a5275
-j218,editor467,a8612
-j10,editor468,a3724
-j225,editor469,a3446
-j226,editor470,a2449
-j24,editor471,a4541
-j85,editor472,a10375
-j178,editor473,a9519
-j227,editor474,a5840
-j228,editor475,a2668
-j229,editor476,a4918
-j230,editor477,a899
-j226,editor478,a1522
-j231,editor479,a4920
-j85,editor480,a3922
-j232,editor481,a1780
-j85,editor482,a5279
-j233,editor483,a2721
-j221,editor484,a9497
-j234,editor485,a2346
-j235,editor486,a1601
-j236,editor487,a7153
-j189,editor488,a2199
-j60,editor489,a1308
-j237,editor490,a1260
-j172,editor491,a5959
-j238,editor492,a8493
-j20,editor493,a8229
-j0,editor494,a10537
-j239,editor495,a5283
-j240,editor496,a4805
-j219,editor497,a1682
-j85,editor498,a3246
-j241,editor499,a2224
-j85,editor500,a2108
-j242,editor501,a2544
-j219,editor502,a9083
-j243,editor503,a3740
-j244,editor504,a4060
-j209,editor505,a8750
-j85,editor506,a1753
-j245,editor507,a3722
-j85,editor508,a8414
-j85,editor509,a4937
-j97,editor510,a1973
-j153,editor511,a6511
-j246,editor512,a4963
-j20,editor513,a9400
-j102,editor514,a10612
-j247,editor515,a7751
-j248,editor516,a1461
-j20,editor517,a10629
-j85,editor518,a8059
-j249,editor519,a8319
-j153,editor520,a10606
-j85,editor521,a2622
-j6,editor522,a9996
-j250,editor523,a3799
-j194,editor524,a4618
-j85,editor525,a1649
-j251,editor526,a3719
-j252,editor527,a5945
-j253,editor528,a8054
-j254,editor529,a8543
-j255,editor530,a7424
-j20,editor531,a9712
-j85,editor532,a10663
-j153,editor533,a1793
-j153,editor534,a2437
-j256,editor535,a448
-j102,editor536,a5844
-j130,editor537,a4111
-j75,editor538,a2858
-j179,editor539,a6319
-j85,editor540,a4381
-j85,editor541,a2085
-j257,editor542,a2375
-j102,editor543,a1383
-j20,editor544,a7176
-j258,editor545,a8336
-j259,editor546,a10294
-j85,editor547,a7642
-j260,editor548,a2610
-j97,editor549,a6072
-j209,editor550,a3368
-j187,editor551,a9503
-j5,editor552,a6087
-j175,editor553,a3162
-j234,editor554,a9473
-j261,editor555,a1211
-j262,editor556,a8030
-j219,editor557,a3713
-j97,editor558,a529
-j263,editor559,a3509
-j234,editor560,a7602
-j264,editor561,a9781
-j85,editor562,a9367
-j265,editor563,a5171
-j85,editor564,a7908
-j104,editor565,a8855
-j5,editor566,a6431
-j85,editor567,a1585
-j266,editor568,a7607
-j267,editor569,a3661
-j223,editor570,a3973
-j85,editor571,a3369
-j268,editor572,a6576
-j20,editor573,a5951
-j175,editor574,a4142
-j85,editor575,a3320
-j269,editor576,a9991
-j85,editor577,a1331
-j97,editor578,a7218
-j270,editor579,a518
-j271,editor580,a7556
-j85,editor581,a3847
-j272,editor582,a6246
-j273,editor583,a4604
-j85,editor584,a2211
-j85,editor585,a6755
-j216,editor586,a10471
-j274,editor587,a7229
-j187,editor588,a9243
-j102,editor589,a10015
-j275,editor590,a7031
-j274,editor591,a1053
-j276,editor592,a3705
-j277,editor593,a7343
-j247,editor594,a1605
-j85,editor595,a111
-j85,editor596,a2425
-j85,editor597,a3697
-j278,editor598,a5101
-j62,editor599,a4637
-j274,editor600,a2451
-j279,editor601,a2610
-j280,editor602,a7434
-j6,editor603,a10340
-j281,editor604,a1036
-j282,editor605,a7505
-j283,editor606,a7474
-j168,editor607,a9934
-j284,editor608,a7595
-j285,editor609,a5707
-j286,editor610,a6617
-j287,editor611,a2846
-j153,editor612,a6475
-j288,editor613,a10658
-j289,editor614,a4186
-j290,editor615,a6788
-j291,editor616,a7702
-j292,editor617,a7904
-j293,editor618,a3810
-j294,editor619,a5533
-j295,editor620,a10005
-j296,editor621,a5383
-j297,editor622,a9698
-j108,editor623,a6951
-j265,editor624,a1361
-j298,editor625,a4921
-j91,editor626,a4661
-j295,editor627,a1830
-j299,editor628,a8921
-j179,editor629,a1446
-j179,editor630,a525
-j300,editor631,a5538
-j99,editor632,a9037
-j299,editor633,a1102
-j301,editor634,a8234
-j280,editor635,a575
-j168,editor636,a3113
-j13,editor637,a9063
-j103,editor638,a8409
-j302,editor639,a4604
-j303,editor640,a5585
-j304,editor641,a855
-j10,editor642,a165
-j305,editor643,a2092
-j306,editor644,a3868
-j307,editor645,a10430
-j13,editor646,a295
-j308,editor647,a2776
-j309,editor648,a1237
-j214,editor649,a1295
-j214,editor650,a10040
-j299,editor651,a2026
-j310,editor652,a42
-j311,editor653,a984
-j312,editor654,a4491
-j310,editor655,a6460
-j310,editor656,a6033
-j20,editor657,a1701
-j313,editor658,a8984
-j314,editor659,a4205
-j310,editor660,a6429
-j313,editor661,a7025
-j315,editor662,a2598
-j316,editor663,a9637
-j317,editor664,a548
-j214,editor665,a9404
-j318,editor666,a1532
-j102,editor667,a5783
-j312,editor668,a7842
-j319,editor669,a7168
-j320,editor670,a9895
-j20,editor671,a5592
-j321,editor672,a8471
-j318,editor673,a7713
-j322,editor674,a6337
-j168,editor675,a5546
-j75,editor676,a6419
-j312,editor677,a5881
-j323,editor678,a206
-j324,editor679,a276
-j318,editor680,a4853
-j325,editor681,a9930
-j91,editor682,a1346
-j326,editor683,a5882
-j327,editor684,a7333
-j168,editor685,a10491
-j328,editor686,a1715
-j0,editor687,a4919
-j291,editor688,a8825
-j168,editor689,a7448
-j142,editor690,a3417
-j329,editor691,a9839
-j108,editor692,a4237
-j329,editor693,a3807
-j330,editor694,a10390
-j331,editor695,a2241
-j329,editor696,a633
-j291,editor697,a1906
-j332,editor698,a9474
-j333,editor699,a7298
-j299,editor700,a2587
-j329,editor701,a3651
-j334,editor702,a9326
-j291,editor703,a9425
-j168,editor704,a3295
-j310,editor705,a7080
-j62,editor706,a1787
-j20,editor707,a9563
-j335,editor708,a2682
-j327,editor709,a5106
-j336,editor710,a7012
-j337,editor711,a4568
-j338,editor712,a3591
-j339,editor713,a3219
-j20,editor714,a9150
-j340,editor715,a9281
-j329,editor716,a5463
-j299,editor717,a9237
-j341,editor718,a4020
-j313,editor719,a6603
-j342,editor720,a3041
-j343,editor721,a475
-j338,editor722,a3178
-j14,editor723,a9785
-j240,editor724,a6907
-j102,editor725,a144
-j299,editor726,a9770
-j240,editor727,a7751
-j48,editor728,a6608
-j314,editor729,a2313
-j344,editor730,a6935
-j5,editor731,a8049
-j345,editor732,a10247
-j206,editor733,a443
-j346,editor734,a1964
-j173,editor735,a6957
-j85,editor736,a7528
-j347,editor737,a2309
-j348,editor738,a9824
-j349,editor739,a1817
-j350,editor740,a1162
-j351,editor741,a3725
-j352,editor742,a5469
-j353,editor743,a3814
-j327,editor744,a10192
-j14,editor745,a7340
-j354,editor746,a6783
-j224,editor747,a1450
-j355,editor748,a9985
-j356,editor749,a1572
-j357,editor750,a1767
-j358,editor751,a5092
-j245,editor752,a7010
-j359,editor753,a8535
-j102,editor754,a9005
-j360,editor755,a7194
-j361,editor756,a9019
-j362,editor757,a1458
-j363,editor758,a7831
-j299,editor759,a7397
-j107,editor760,a3388
-j299,editor761,a10572
-j364,editor762,a8067
-j102,editor763,a1173
-j1,editor764,a7934
-j235,editor765,a2100
-j314,editor766,a8577
-j350,editor767,a10662
-j40,editor768,a8483
-j365,editor769,a3512
-j366,editor770,a7545
-j274,editor771,a8880
-j358,editor772,a2513
-j40,editor773,a8728
-j221,editor774,a7390
-j367,editor775,a6800
-j368,editor776,a4166
-j274,editor777,a7245
-j209,editor778,a3541
-j369,editor779,a1134
-j1,editor780,a4980
-j370,editor781,a2437
-j371,editor782,a783
-j66,editor783,a2203
-j306,editor784,a9712
-j274,editor785,a110
-j102,editor786,a4137
-j209,editor787,a2114
-j372,editor788,a9145
-j373,editor789,a1838
-j374,editor790,a7931
-j242,editor791,a8063
-j375,editor792,a7102
-j274,editor793,a5724
-j376,editor794,a7018
-j377,editor795,a9090
-j105,editor796,a5251
-j206,editor797,a9619
-j5,editor798,a323
-j108,editor799,a8615
-j378,editor800,a1037
-j274,editor801,a1763
-j379,editor802,a6045
-j34,editor803,a6068
-j227,editor804,a10434
-j102,editor805,a6365
-j102,editor806,a10537
-j102,editor807,a5755
-j102,editor808,a3579
-j214,editor809,a5170
-j372,editor810,a4616
-j380,editor811,a5277
-j40,editor812,a5454
-j235,editor813,a1002
-j275,editor814,a106
-j381,editor815,a7443
-j224,editor816,a7177
-j382,editor817,a4733
-j79,editor818,a1626
-j97,editor819,a2570
-j102,editor820,a1808
-j383,editor821,a9629
-j175,editor822,a10473
+journalId,editorId,authorId,authorUrl,authorName,journalUrl,journalTitle,journalVolumes
+j0,editor0,a9128,4309890,F. Lens,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j0,editor125,a2233,121828020,Ian M. Foster,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j0,editor366,a8718,3542440,P. Limbach,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j0,editor368,a2598,7020798,R. Bonnand,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j0,editor494,a10537,1397258551,J. Ortega-Garcia,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j0,editor687,a4919,34660738,S. Miller,458166b3-de17-4bf3-bbbb-e53782de2f0f,Nature Biotechnology,4
+j1,editor1,a1135,50026958,Y. Danon,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor19,a2861,103317640,D. Hosken,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor47,a4141,2067217447,T. Stahl,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor149,a8346,36448539,David I. Hurwitz,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor164,a5794,4667606,B. Goodner,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor300,a2957,1380953715,J. Leong,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor359,a8948,2105995,D. Gur,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor764,a7934,1767767,P. Belhumeur,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j1,editor780,a4980,1690167,T. Warnow,c6840156-ee10-4d78-8832-7f8909811576,IEEE Transactions on Knowledge and Data Engineering,0
+j2,editor2,a3505,50590791,J. Grange,7a7dc89b-e1a6-44df-a496-46c330a87840,SN Computer Science,9
+j3,editor3,a10661,90871634,C. Schoenberg,6076bd95-0124-4b5d-8346-476b7287818c,"Shanlax International Journal of Arts, Science and Humanities",5
+j4,editor4,a5527,8918605,S. Willis,18be6e14-0ac5-454e-b78d-100e2dddd04e,"International Journal of Advanced Research in Science, Communication and Technology",10
+j5,editor5,a940,2276334,M. Boyes,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor31,a5106,2058459677,Aimin Shi,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor731,a8049,2771337,Li-wei H. Lehman,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor365,a266,5446768,Somalee Datta,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor552,a6087,40417266,Charlton Callender,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor566,a6431,1719385,H. Samet,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j5,editor798,a323,3212908,Daniel L. Oberski,41dbb273-8d18-4a45-8154-852882a37b34,Genome Biology,5
+j118,editor156,a940,2276334,M. Boyes,a1b87795-fe1f-4a43-bc4b-97b90f5bc75b,Sociological Methods & Research,2
+j6,editor6,a4373,1748583,R. Choren,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,1
+j6,editor165,a4065,1678713,V. Basili,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,1
+j6,editor444,a505,2059337676,Padma Raghavan,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,1
+j6,editor522,a9996,16080475,Cullen S. Hendrix,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,1
+j6,editor603,a10340,2185850989,Ying Feng,099483df-e8f2-4bee-805d-8a69f07b6cbf,Nature Methods,1
+j58,editor68,a4373,1748583,R. Choren,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,1
+j58,editor69,a10624,143763358,J. Gemmell,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,1
+j58,editor76,a1608,None,Silvia G. Peer Emmanuel Chris Colomban De Michael Gabriel Acinas Bork Boss Bowler Vargas Follows Gorsky Grim,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,1
+j58,editor133,a379,143998072,O. Kohlbacher,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,1
+j58,editor176,a6402,144351024,G. Slater,7d2997cd-251d-4613-b0eb-d44a29a52df8,Journal of Data and Information Science,1
+j7,editor7,a10136,36900731,S. Dracheva,c3875580-2cce-4a95-a094-fff60bb381b9,International Journal of Data Science and Analysis,6
+j7,editor48,a995,144186018,Ankit Agrawal,c3875580-2cce-4a95-a094-fff60bb381b9,International Journal of Data Science and Analysis,6
+j7,editor55,a8192,2040091191,Li-Jia Li,c3875580-2cce-4a95-a094-fff60bb381b9,International Journal of Data Science and Analysis,6
+j7,editor84,a725,2117524113,Qin Lu,c3875580-2cce-4a95-a094-fff60bb381b9,International Journal of Data Science and Analysis,6
+j8,editor8,a7684,98344553,L. Dobrjanskyj,d60da343-ab92-4310-b3d7-2c0860287a9d,Journal of Big Data,9
+j8,editor126,a4160,1872850,E. Miya,d60da343-ab92-4310-b3d7-2c0860287a9d,Journal of Big Data,9
+j8,editor172,a5548,2109403,Wael Awada,d60da343-ab92-4310-b3d7-2c0860287a9d,Journal of Big Data,9
+j9,editor9,a6335,2434032,Marcia M. Nizzari,3c27e831-750f-45bc-9914-2148a5259eba,IEEE Transactions on Artificial Intelligence,5
+j10,editor10,a153,50683764,A. Cappuccio,f458795b-af97-4b7c-ba4e-d57bbb57f90a,Chemical Reviews,4
+j10,editor468,a3724,3408854,Zi Qun Ang,f458795b-af97-4b7c-ba4e-d57bbb57f90a,Chemical Reviews,4
+j10,editor642,a165,48086053,Alexey M. Kozlov,f458795b-af97-4b7c-ba4e-d57bbb57f90a,Chemical Reviews,4
+j11,editor11,a6488,145718058,A. Bridge,79af09a2-54e8-4f97-8edf-9fba208ab744,International Journal of Digital Earth,9
+j11,editor168,a4307,2735747,N. Seyff,79af09a2-54e8-4f97-8edf-9fba208ab744,International Journal of Digital Earth,9
+j12,editor12,a4737,2545870,Gábor Csárdi,7fac555d-41ef-410c-9c84-ed584a9cff7f,Journal of Geographical Systems,2
+j13,editor13,a2030,46620835,M. Pawlak,1f6f3f05-6a23-42f0-8d31-98ab8089c1f2,IEEE Transactions on Signal Processing,3
+j13,editor637,a9063,144690078,E. Garnier,1f6f3f05-6a23-42f0-8d31-98ab8089c1f2,IEEE Transactions on Signal Processing,3
+j13,editor646,a295,14332753,M. Tizabi,1f6f3f05-6a23-42f0-8d31-98ab8089c1f2,IEEE Transactions on Signal Processing,3
+j14,editor14,a4540,1760557,S. Iacus,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j14,editor120,a9770,1838035,D. Kopans,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j14,editor162,a8569,145686424,S. Mathivanan,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j14,editor197,a415,20520552,A. Leeson,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j14,editor723,a9785,37779473,Mingxiang Teng,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j14,editor745,a7340,2910492,Richard Peng,62924b2a-8fb8-4b93-92c6-735516b49af0,Scientific Data,2
+j15,editor15,a6875,1708192,E. Merelli,27475f31-a1d2-401b-84ad-9b405c7609a8,Journal of Epidemiology and Community Health,4
+j141,editor311,a6875,1708192,E. Merelli,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor206,a7836,144224173,J. Tsitsiklis,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor209,a8029,35885770,I. Bruno,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor212,a6959,145767508,C. Lewis,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor213,a3057,144143284,R. Graham,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor223,a10468,47170220,M. Remm,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor224,a8981,40483582,Chris Fung,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor228,a6115,152588940,L. Matthews,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor232,a1182,144918359,A. Wiggins,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor234,a9728,2034654,E. Santonico,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor240,a4899,5972657,Deanna Lee,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor241,a4070,39583513,K. Mann,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor247,a1108,1735376092,Miles McDonough,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor250,a7041,143874654,D. Woo,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor254,a10332,52019975,M. B. Yelne,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor258,a4179,1699390,G. Boetticher,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor268,a9440,2772109,Renzo Angles,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor270,a5497,145180664,S. Mane,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor279,a7680,3099515,H. H. Gan,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor295,a6291,145766270,L. Old,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor286,a3197,143978505,M. Vaughn,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor289,a10281,48755002,Gleb Grebnev,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor294,a10145,2115893,H. Karas,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor309,a4033,2658310,Jon Zolla,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor316,a6418,50133468,D. Mishmar,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor318,a7585,103332718,L. Bieche,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor329,a5184,2047694002,B. Daigle,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor344,a2144,2458899,L. Gatto,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor345,a500,2105998204,Henrik Christensen,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor346,a10329,1771545,J. Niland,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j141,editor354,a4927,4131264,A. Tsopmo,f528e58c-0e4e-45b0-9456-832847244f0e,Empirical Software Engineering,10
+j16,editor16,a3479,2689118,Peter Membrey,8b172637-3435-4dd3-a753-5035b814ff39,American Statistician,1
+j16,editor72,a4721,2901032,Nicola Buso,8b172637-3435-4dd3-a753-5035b814ff39,American Statistician,1
+j17,editor17,a1213,29836646,L. Lannom,961301b0-6f5a-44a6-9216-54b673cded78,Journal of Statistics and Data Science Education,8
+j18,editor18,a9195,1806594,S. Bleuler,17bac89e-3dba-467a-b9d4-71e3baefb08b,Patterns,0
+j19,editor20,a3223,47207370,K. Purcell,aa746a02-d187-42c2-bdf9-df6a5d4e648c,Computer/law journal,3
+j19,editor85,a1928,4979758,J. Gerssen,aa746a02-d187-42c2-bdf9-df6a5d4e648c,Computer/law journal,3
+j20,editor21,a2283,2779588,G. Robinson,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor59,a1008,1404020590,O. Hall-Holt,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor64,a1898,74614675,C. Dolding,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor102,a3297,1904754,C. D. Meyer,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor517,a10629,145461182,M. Clausen,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor493,a8229,1422146744,B. Smith-White,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor513,a9400,2971502,D. Blacker,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor531,a9712,2773775,A. Mishonov,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor544,a7176,4670422,R. Valieris,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor573,a5951,90792911,Alfred F. Florensa,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor657,a1701,1381923852,J. Portell,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor671,a5592,2594108,Sergejs Aleksejevs,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor707,a9563,30106240,Lein,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j20,editor714,a9150,5638423,Y. Onoda,bb95bf2e-8383-4748-bf9d-d6906d091085,Proceedings of the National Academy of Sciences of the United States of America,9
+j21,editor22,a4283,1790391,J. Atlee,92d34d37-5c4b-4e11-b461-9041b7de4c2d,Philosophical Transactions of the Royal Society of London. Biological Sciences,1
+j147,editor361,a4283,1790391,J. Atlee,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor217,a6969,14202061,M. Nalls,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor220,a4263,1678555,Qinbao Song,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor225,a10675,2277533,Jason M. Stredwick,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor226,a7334,48031743,Xia Liu,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor230,a1294,10225041,A. Cooray,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor231,a3415,1926343,M. Meyerand,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor236,a2256,2771547,A. Lehmann,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor269,a8090,3218124,M. Landrum,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor273,a3546,50823605,J. Osborne,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor280,a7231,10105684,Jon del'Etoile,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor288,a7776,82916535,J. Koolen,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor290,a4885,1388775848,Ran Gilad-Bachrach,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor292,a7570,70565454,V. Kalatjari,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor301,a8049,2771337,Li-wei H. Lehman,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor303,a4983,49841635,M. Bahram,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor304,a5741,1916001,A. Bacic,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor307,a5320,36698547,P. B. Kim,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor312,a2776,1964555,M. Frei,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor317,a312,2441164,R. Irizarry,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor322,a7387,1702139,J. Leskovec,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor325,a5756,47169463,Andreas Dräger,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor327,a1679,145706584,L. Strow,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor328,a10573,144645387,A. Schneider,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor331,a9868,143838343,S. Shenker,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor333,a2388,143804377,E. Krishnan,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor343,a4338,2178536,C. Cook,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor350,a1350,8054152,C. Hogan,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor356,a353,123894038,J. Mustafina,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j147,editor360,a9256,2145121318,Jingxian Feng,119227a6-1b94-433e-a52d-8445a387dbbe,IEEE Software,9
+j22,editor23,a2481,2070963930,Valeria Granata,70337d1b-fdf7-4fcb-b391-e096feba3748,BMC Medicine,6
+j23,editor24,a6255,2108289027,Yunyu Zhang,09bb329a-45bc-4561-860f-c8ac0e958895,Ethics and Information Technology,3
+j24,editor25,a7303,4803905,A. Fagan,55511511-6974-4037-92a4-aec79ba003fe,Metabolomics,9
+j24,editor471,a4541,49826711,F. Leisch,55511511-6974-4037-92a4-aec79ba003fe,Metabolomics,9
+j25,editor26,a5262,1779929,A. Lagunin,2baad992-2268-4c38-9120-e453622f2eeb,Journal of Medical Internet Research,9
+j26,editor27,a8014,69003876,M. Kapranov,c0ded351-0e49-473e-816e-23b84c9f8dd3,Frontiers in Environmental Science,7
+j26,editor130,a8513,3229613,Zihu Guo,c0ded351-0e49-473e-816e-23b84c9f8dd3,Frontiers in Environmental Science,7
+j27,editor28,a1490,48747914,C. Slater,d949c7f0-1213-4a16-a6ab-134862369b91,Journal of Library and Information Sciences,9
+j28,editor29,a7075,1759308,H. Harsha,ed4bb98c-600b-477e-9e9a-653127045ec0,CHANCE : New Directions for Statistics and Computing,0
+j29,editor30,a4567,50230421,C. Durinx,bf228014-e6ea-4397-96c9-3fd22beb2f75,British Journal of Educational Technology,6
+j29,editor320,a5008,50458948,H. Ghazal,bf228014-e6ea-4397-96c9-3fd22beb2f75,British Journal of Educational Technology,6
+j327,editor709,a5106,2058459677,Aimin Shi,f62e5eab-173a-4e0a-a963-ed8de9835d22,IEEE Signal Processing Magazine,5
+j327,editor684,a7333,145323141,B. Yao,f62e5eab-173a-4e0a-a963-ed8de9835d22,IEEE Signal Processing Magazine,5
+j327,editor744,a10192,3035174,Nima Salimi,f62e5eab-173a-4e0a-a963-ed8de9835d22,IEEE Signal Processing Magazine,5
+j30,editor32,a1845,72388991,C. Boeche,3fe65a3e-606b-4377-8de1-b3f779646e1e,"Annual review of political science (Palo Alto, Calif. Print)",3
+j186,editor385,a1845,72388991,C. Boeche,8aa1809e-2afc-499d-b1eb-4f7d1dab5f28,BMC Microbiology,7
+j31,editor33,a10373,1404718344,Flora J. Logan-Klumpler,bc30f894-9a9c-440e-8420-7bd3c5624384,The Journal of the Learning Sciences,5
+j32,editor34,a9810,37409274,Guan Le,93a7b6aa-3a96-4e75-a837-cbd3660e8a72,Geographical Analysis,9
+j32,editor36,a2,40950692,Matthew R. Dillon,93a7b6aa-3a96-4e75-a837-cbd3660e8a72,Geographical Analysis,9
+j33,editor35,a4582,31602600,Felix Gabler,e4c9326f-17a0-48c8-85c6-2975945f4395,Journal of Biosciences,3
+j34,editor37,a9020,51425828,Christopher Heiser,fcbcaf18-8ab1-43e1-a973-604bbc7e344e,Proceedings of the VLDB Endowment,8
+j34,editor46,a7498,145552439,Siheng Chen,fcbcaf18-8ab1-43e1-a973-604bbc7e344e,Proceedings of the VLDB Endowment,8
+j34,editor803,a6068,2116638858,Mikio Yoshida,fcbcaf18-8ab1-43e1-a973-604bbc7e344e,Proceedings of the VLDB Endowment,8
+j35,editor38,a4813,2054776,M. Senger,5821d52f-e54a-4b02-981a-dd16fec9a115,TOP - An Official Journal of the Spanish Society of Statistics and Operations Research,9
+j36,editor39,a3668,50693419,A. Pinna,0aa85cdf-7469-400d-9553-a13cfaa44da5,Journal of Statistics Education,5
+j37,editor40,a5699,32813672,M. Cline,4d9ce1c4-dc84-46b9-903e-e3751c00c7dd,Communications of the ACM,0
+j37,editor51,a1517,91883514,W. Wahl,4d9ce1c4-dc84-46b9-903e-e3751c00c7dd,Communications of the ACM,0
+j37,editor336,a2296,1693515,Mohammed J. Zaki,4d9ce1c4-dc84-46b9-903e-e3751c00c7dd,Communications of the ACM,0
+j38,editor41,a5003,46310199,S. Doumbia,4d899b46-b5c8-436e-8ce3-084673ea8905,Big Data & Society,10
+j38,editor191,a6449,35510297,R. Britto,4d899b46-b5c8-436e-8ce3-084673ea8905,Big Data & Society,10
+j39,editor42,a6976,144730394,K. Rice,da1f558d-7744-4ce7-9b43-0a73f0057985,Journal of Library Administration,9
+j40,editor43,a4769,152762551,Zixiang Pan,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,0
+j40,editor193,a24,5307931,D. Durall,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,0
+j40,editor812,a5454,46870998,H. Plaisier,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,0
+j40,editor768,a8483,152266553,E. Starikova,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,0
+j40,editor773,a8728,47488770,M. Marshall,75d7a8c1-d871-42db-a8e4-7cf5146fdb62,Social Science Research Network,0
+j41,editor44,a857,2004188012,M. Ali,be8cc615-4b2c-482c-86de-1f75a442c83f,Journal of Physics: Condensed Matter,0
+j42,editor45,a133,2159757618,Gayathri,94cf7e5d-ed99-4849-b9b9-17ed670f5e6e,Journal of Social Computing,9
+j43,editor49,a1864,2853804,R. Cancelliere,9cf634df-e30b-4e2a-aeb7-84a126ce8861,Chest,5
+j44,editor50,a7266,1697397,P. Vandergheynst,abe20b62-4958-4cfc-a05f-b87f4051f1a9,BioScience,6
+j45,editor52,a2294,144210610,R. Meyer,329e28c6-84e0-4d75-a58e-ddac24c52d4e,International Journal of Population Data Science,5
+j46,editor53,a5309,3158825,John A. Springer,f1a44872-70ad-4c33-b8bb-8618e573cf3f,Computational Mechanics,9
+j47,editor54,a4394,2693288,S. Mancoridis,74527bdc-72cb-43a1-837d-5af4a24089b7,Environmental Modelling & Software,10
+j47,editor263,a1829,1381923796,D. Barbato,74527bdc-72cb-43a1-837d-5af4a24089b7,Environmental Modelling & Software,10
+j48,editor56,a2245,3462562,G. Beroza,b7e5a3b3-2519-4ca2-8870-c2b45ef76ab9,Nature Human Behaviour,2
+j48,editor728,a6608,3168535,Perttu S. Niemelä,b7e5a3b3-2519-4ca2-8870-c2b45ef76ab9,Nature Human Behaviour,2
+j49,editor57,a7220,10661386,L. Gladkov,7b2adce0-d53f-49d6-8784-b0645604fe62,ACM Computing Surveys,2
+j49,editor276,a1674,2047714,L. McMillin,7b2adce0-d53f-49d6-8784-b0645604fe62,ACM Computing Surveys,2
+j50,editor58,a2570,5378283,M. Beker,1ec361d9-6d57-4fd4-b0bd-c85044a7e1c3,"Science, Technology and Human Values",1
+j97,editor819,a2570,5378283,M. Beker,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor119,a3631,3176851,Marios Fokaefs,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor139,a3619,2931632,Klaas-Jan Stol,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor143,a6840,144074639,R. H. Nilsson,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor145,a5369,84025032,A. Driscoll,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor146,a4787,35320024,F. Valentin,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor152,a5763,3069061,S. Liuni,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor154,a4652,2027667,R. Neher,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor170,a10143,1769448,E. Wingender,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor181,a6246,2594093,S. Jegelka,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor182,a7807,1696836,D. Seese,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor183,a9692,1742391,J. Ullman,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor187,a3086,1393077058,Vince Desborough,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor188,a6989,32480980,C. Schmidt,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor200,a1605,3664262,R. Troublé,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor202,a496,3178042,C. Servin,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor510,a1973,102321568,J. Lavigne,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor549,a6072,2059134,C. Hoogland,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor558,a529,1726428,N. Samatova,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j97,editor578,a7218,6436063,P. Manuel,f59506a8-d8bb-4101-b3d4-c4ac3ed03dad,Science,2
+j51,editor60,a963,49166856,B. Liu,fbed5c1a-cebb-4bdd-8ca8-022b3bdd9cfb,Ethnicity & Disease,9
+j52,editor61,a4595,152946974,Emily M. Dietrich,789f162c-4b52-4f36-92f2-e19de5c8af8c,Data Science,5
+j53,editor62,a8246,2343389,V. Kodali,4293c8e8-8cd7-4be6-b8b2-69f2b4fa3259,Computer Applications in Engineering Education,2
+j54,editor63,a8075,51412984,V. Gorelenkov,5619586e-de5a-4bc3-ac80-04dd8530d80c,Nature Biomedical Engineering,0
+j55,editor65,a5172,1680181,P. Calie,6b25cc59-3bb5-4b47-819e-d95ba292c4f7,Information systems research,8
+j56,editor66,a1682,98067137,P. Tanga,b4ddf99b-89f6-42b4-8bbc-9bde693530cf,International Journal of Information Management,8
+j219,editor497,a1682,98067137,P. Tanga,dc4a9aad-72db-4530-a183-eaa4bf1d4490,IEEE/ACM Transactions on Computational Biology & Bioinformatics,6
+j219,editor502,a9083,2778704,R. Bradstock,dc4a9aad-72db-4530-a183-eaa4bf1d4490,IEEE/ACM Transactions on Computational Biology & Bioinformatics,6
+j219,editor456,a9946,32149059,J. M. Lay,dc4a9aad-72db-4530-a183-eaa4bf1d4490,IEEE/ACM Transactions on Computational Biology & Bioinformatics,6
+j219,editor557,a3713,7274019,M. Nagappan,dc4a9aad-72db-4530-a183-eaa4bf1d4490,IEEE/ACM Transactions on Computational Biology & Bioinformatics,6
+j57,editor67,a7540,2274407,J. Faeder,c9ec8f1c-d8e0-4555-b6ca-a068b79b1e40,Business & Information Systems Engineering,5
+j57,editor71,a5845,48999874,M. Blatter,c9ec8f1c-d8e0-4555-b6ca-a068b79b1e40,Business & Information Systems Engineering,5
+j59,editor70,a2032,69040604,F. Pineau,0bf2c493-a93b-464a-b3d9-e18fbb4a7965,IEEE Computer Graphics and Applications,6
+j60,editor73,a467,1916040,M. Greiver,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j60,editor140,a2684,114235616,D. Coward,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j60,editor158,a7203,2443707,M. Hallquist,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j60,editor184,a9384,3430498,Nathan Burnell,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j60,editor190,a8245,3110049,V. Joardar,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j60,editor489,a1308,1382576786,Miguel de Val-Borro,83ff973b-8a0e-4e00-a06a-2cfd9e222de9,PLoS Biology,7
+j61,editor74,a10180,47612076,Yasukazu Nakamura,435bb11d-c0fe-4815-b98e-46c313be8ce7,Journal of Decision Systems,9
+j62,editor75,a1015,50524143,M. Kvist,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,5
+j62,editor98,a2007,117370874,N. Millar,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,5
+j62,editor121,a10218,3288413,N. Althorpe,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,5
+j62,editor599,a4637,2157327836,M. Garcia,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,5
+j62,editor706,a1787,3821116,A. Lanzafame,6c24a0a0-b07d-4d7b-a19b-fd09a3ed453a,Nature,5
+j63,editor77,a9305,144923890,P. Massin,46314324-f0a7-46d3-8df0-30663e42d679,Expert Opinion on Drug Discovery,0
+j191,editor395,a9305,144923890,P. Massin,3445a712-bef4-4b80-b4f8-d527e01df714,Molecular Ecology Resources,4
+j64,editor78,a10553,116210985,L. Montanarela,7404efea-88b2-4c7c-8cb1-b3a8ced6363f,IEEE Intelligent Systems,2
+j64,editor81,a3519,3086561,F. Plessow,7404efea-88b2-4c7c-8cb1-b3a8ced6363f,IEEE Intelligent Systems,2
+j65,editor79,a6223,2114966233,Y. Qiu,c737deea-2a9a-4225-aa20-19a7d1c9c702,International Journal of System Dynamics Applications,7
+j66,editor80,a2920,1383471368,P. King,93be7524-e38d-4d5a-b7f1-bb2b08b85275,Data Science Journal,7
+j66,editor153,a6448,146335540,C. Bonilla,93be7524-e38d-4d5a-b7f1-bb2b08b85275,Data Science Journal,7
+j66,editor783,a2203,144298711,Ray M. Chang,93be7524-e38d-4d5a-b7f1-bb2b08b85275,Data Science Journal,7
+j67,editor82,a8891,46810441,R. Young,f3b9cfef-ea93-4f7f-a14f-95fbf796875e,IEEE Geoscience and Remote Sensing Magazine,9
+j68,editor83,a3655,2239207,Proshanta Sarkar,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,7
+j68,editor379,a7052,4530422,J. Howson,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,7
+j68,editor387,a7118,35667644,U. Scherf,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,7
+j68,editor392,a4698,26339028,Thomas A. Geddes,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,7
+j68,editor399,a1043,144500070,Shuchi Chawla,9ec189b3-db0f-41d8-9c82-21ef5fa9b87e,Frontiers in Genetics,7
+j69,editor86,a8212,34432478,Mincheol Kim,e2742a49-1b55-4a31-b319-7455fa5e12d4,IEEE Transactions on Services Computing,7
+j69,editor302,a4748,1876480,N. Redaschi,e2742a49-1b55-4a31-b319-7455fa5e12d4,IEEE Transactions on Services Computing,7
+j70,editor87,a3031,31823352,C. Yang,dd522c0a-e715-4d95-9ed7-e60346254ddf,Statistics and computing,9
+j71,editor88,a1838,6405438,M. Bellazzini,82cd90f0-386f-4446-b237-6404c27f6a15,Communications in Computer and Information Science,2
+j373,editor789,a1838,6405438,M. Bellazzini,e35a87a3-a6c4-47bf-acca-3e615ddb9c58,ACM Transactions on Database Systems,2
+j72,editor89,a3636,2145793494,Yuanyuan Zhang,71b4e956-03b5-4545-ad85-567b2567ed26,Nursing Administration Quarterly,5
+j73,editor90,a8727,2064303771,Ajay Khanna,e3e1f91c-fe26-4f67-8d15-f7acd8abdf42,Future generations computer systems,6
+j74,editor91,a3210,36187205,T. Klaus,19c7a16a-8ffe-45d4-863e-7e1cc8a78b4d,Statistical analysis and data mining,5
+j74,editor97,a6043,1694621,Michael I. Jordan,19c7a16a-8ffe-45d4-863e-7e1cc8a78b4d,Statistical analysis and data mining,5
+j75,editor92,a8488,103513768,V. Tyuterev,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor287,a5369,84025032,A. Driscoll,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor222,a7154,1388864531,F. Al-Shahrour,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor251,a8420,2712446,R. Tatusov,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor253,a63,1854342,L. McIver,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor261,a1046,1720683,B. Baesens,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor283,a4335,3119182,Andrea Omicini,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor348,a3730,1794359,J. Abrial,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor362,a4818,1813523,A. Wipat,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor431,a7685,34860502,F. Freudenstein,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor538,a2858,144886822,T. Hong,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j75,editor676,a6419,3336184,V. Procaccio,2f5d0e8a-faad-4f10-b323-2b2e3c439a78,Lecture Notes in Computer Science,8
+j76,editor93,a247,2196719,M. Craglia,82f7a62b-9747-4f4c-91ad-166f6a317d5d,Education and Information Technologies : Official Journal of the IFIP technical committee on Education,8
+j77,editor94,a9212,1984867,D. Fisk,2a65d17a-afd8-466e-aff3-e0d0fbc84fb0,International Journal of Intelligent Computing and Cybernetics,7
+j78,editor95,a5836,15265173,Glena G. Temple,427d3401-f800-43c4-84ad-76e19faa88d0,College and Research Libraries,6
+j79,editor96,a7346,1727030,C. Stam,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor214,a9260,2772248,J. Eng,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor298,a3149,2676381,R. Jedicke,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor326,a4317,144297077,C. Potts,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor338,a119,2065857867,M. J. R. Quintana,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor353,a7648,33862782,Y. Alavi,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j79,editor818,a1626,5518928,M. Sullivan,f6572f66-2623-4a5e-b0d9-4a5028dea98f,Computer,3
+j80,editor99,a2052,50032728,N. Rowell,93906da2-687f-4184-8437-40998086f409,Nature Reviews Methods Primers,1
+j81,editor100,a756,2108044212,Xinzhi Zhang,5bd34b7c-17b3-4080-96c2-50bd51fcab3a,Quantitative Science Studies,6
+j81,editor101,a4480,1721532,R. Banker,5bd34b7c-17b3-4080-96c2-50bd51fcab3a,Quantitative Science Studies,6
+j81,editor103,a8213,46403083,Hyunsoo Na,5bd34b7c-17b3-4080-96c2-50bd51fcab3a,Quantitative Science Studies,6
+j82,editor104,a9317,34660241,G. Rubin,02b0e95f-1216-4dfe-b50d-fdb87b421ec8,EOS,10
+j83,editor105,a2790,50878058,N. Gehrels,28927fa0-8dca-4082-a7d0-abd989c8ef12,Advancement of science,2
+j84,editor106,a1535,2338072,B. Blaiszik,1a624d3a-7238-4368-b208-cdebb1e8ccc8,Nuclear Data Sheets,0
+j85,editor107,a518,1445301871,Thomas M. Vogl,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor447,a10369,2065501098,Michael Macias,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor180,a10063,1755973,M. Grgic,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor443,a1738,98216556,N. Cheek,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor394,a5918,2618772,D. Faith,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor406,a6817,1400044832,Peter Murray-Rust,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor410,a6933,49340295,Ahamad Hassan,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor413,a5643,2054062367,P. Romano,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor414,a4880,6223562,A. Ballou,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor423,a2630,6216322,P. Campsie,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor425,a8711,35365193,Pietro Boccaletto,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor429,a9620,1681593,B. Nanduri,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor440,a8584,1851388,M. Kashyap,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor441,a5398,87486204,A. Al-Chalabi,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor445,a6093,48146545,Ying Gao,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor455,a7932,145299298,W. Whiteley,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor458,a4798,11268918,Dan-tong Wang,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor461,a7431,143913705,P. Scheltens,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor466,a5275,2056261955,Peiqin Gu,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor472,a10375,28900147,U. Böhme,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor480,a3922,1912050,M. Fourment,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor482,a5279,1873696,P. Gaudet,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor498,a3246,2182803320,Barrie Margettsc,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor500,a2108,14010293,M. Vaschetto,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor506,a1753,117662363,D. Teyssier,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor508,a8414,5305147,Reid Pinchback,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor509,a4937,15319181,Radoslaw Poplawski,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor518,a8059,2065113442,J. Beck,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor521,a2622,1986356,A. Buonanno,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor525,a1649,145778350,Zhiyong Liu,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor532,a10663,116538149,Kr Tabachnick,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor540,a4381,1714323,C. Lott,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor541,a2085,102662967,F. Suess,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor547,a7642,2080279711,Blair J R S,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor562,a9367,1382063600,Gene Ontology Consortium,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor564,a7908,1678326,F. Schneider,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor567,a1585,47399811,R. Sinatra,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor571,a3369,144048760,V. Calhoun,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor575,a3320,5660877,T. Karpouzoglou,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor577,a1331,1810784,T. Glanzman,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor581,a3847,1781083,J. Vlissides,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor584,a2211,5139940,E. D. Minin,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor585,a6755,2102928,M. Breitbart,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor595,a111,143865612,J. Caporaso,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor596,a2425,1761560,Lokman I. Meho,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor597,a3697,1683595,Thomas D. LaToza,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j85,editor736,a7528,145823869,M. Bóna,be3f884c-b44a-496a-a593-1cad3f89d254,BMC Bioinformatics,2
+j270,editor579,a518,1445301871,Thomas M. Vogl,32b90ffe-8dbf-47b8-99e1-335ec3dfd2ba,Journal of Proteomics & Bioinformatics,10
+j86,editor108,a3796,1808200,K. Pohl,849d78f8-8160-4ca1-8cd8-84253f6abdf6,American Political Science Review,10
+j87,editor109,a3609,2423227,Andreas Jedlitschka,0535c107-9d95-4d92-8b39-d8eca506d035,Biological Conservation,10
+j88,editor110,a6918,4620462,I. Cotlarciuc,7fb6a536-d19e-4526-8585-8be7b1943478,Science Education,3
+j89,editor111,a9067,143995477,J. Cornelissen,5cbedab5-cba8-430a-82af-b4d2a683e424,ICES Journal of Marine Science,9
+j90,editor112,a10369,2065501098,Michael Macias,f80a2e54-1332-48bf-9634-4b2f77fca809,Data Intelligence,6
+j91,editor113,a1281,9044817,S. Chesley,16c9f9d4-bee1-435d-8c85-22a3deba109d,Physical Review Letters,5
+j91,editor626,a4661,12701930,M. Lalande,16c9f9d4-bee1-435d-8c85-22a3deba109d,Physical Review Letters,5
+j91,editor682,a1346,49538369,S. Herrmann,16c9f9d4-bee1-435d-8c85-22a3deba109d,Physical Review Letters,5
+j92,editor114,a8355,1742448,K. Bollacker,7652ece8-fbd3-4050-b927-cf29d7f0eaa8,Astrophysical Journal,8
+j93,editor115,a8846,2150299143,J. Richardson,b81a92f9-b5d3-48b2-afb5-dacad73fa6d9,MRS Communications,6
+j167,editor347,a8846,2150299143,J. Richardson,42cd70f7-45f1-4f5a-9723-42d222d6c56e,IEEE transactions on computers,5
+j94,editor116,a7393,98743168,D. Lautier,341d8f49-2ea6-48ef-8053-c49cddebb1e1,MRS bulletin,0
+j95,editor117,a4795,3219054,M. Baseler,f3157ea6-5ef2-47eb-90ca-f81947c40906,Comptes rendus. Mecanique,9
+j96,editor118,a5823,2515003,V. Guillemot,8ec18bc5-9c95-446c-a293-735d7ae1e3e9,Perspectives on Psychological Science,0
+j96,editor194,a5349,1395785994,Kieran O’Neill,8ec18bc5-9c95-446c-a293-735d7ae1e3e9,Perspectives on Psychological Science,0
+j96,editor199,a8496,2957048,Jane He,8ec18bc5-9c95-446c-a293-735d7ae1e3e9,Perspectives on Psychological Science,0
+j299,editor726,a9770,1838035,D. Kopans,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor628,a8921,3044705,E. Kazerooni,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor633,a1102,98583237,R. Bechmann,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor651,a2026,49124538,F. Pailler,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor700,a2587,123783904,J. K. Blackburn,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor717,a9237,2107499141,B. Lee,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor759,a7397,2464145,I. Hartman,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j299,editor761,a10572,4372531,R. Schwacke,25248f80-fe99-48e5-9b8e-9baef3b8e23b,IEEE Transactions on Pattern Analysis and Machine Intelligence,8
+j98,editor122,a8190,144847596,Wei Dong,36d2be9e-7824-4614-a901-dd808a6e2e49,Social Science Research,4
+j99,editor123,a7504,1398049417,L. Melie-García,70628d6a-97aa-4571-9701-bc0eb3989c32,IEEE Transactions on Geoscience and Remote Sensing,3
+j99,editor632,a9037,33117667,D. Woodford,70628d6a-97aa-4571-9701-bc0eb3989c32,IEEE Transactions on Geoscience and Remote Sensing,3
+j100,editor124,a7605,1701768,H. B. Walikar,de65147c-93c3-463a-a8b3-ecf04051fd1a,Astronomy & Astrophysics,0
+j101,editor127,a7660,17046942,B. Andrásfai,e739a034-cba8-40e0-acd3-6ee2a22c62e0,Earth-Science Reviews,9
+j102,editor128,a8812,145489529,M. Mulvey,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor364,a1987,73885223,A. Lobel,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor370,a5848,144989362,M. Gromiha,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor417,a335,145525190,J. Pei,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor806,a10537,1397258551,J. Ortega-Garcia,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor514,a10612,1396440493,C. Kumar-Sinha,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor536,a5844,32765630,Philip Jones,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor543,a1383,31087240,J. Kuczewski,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor589,a10015,91095015,M. Chabot,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor667,a5783,3067513,Tim A. H. te Beek,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor725,a144,143674431,A. Mahfouz,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor754,a9005,40477927,H. Vogel,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor763,a1173,145078244,N. Summers,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor786,a4137,40430624,Chao Liu,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor805,a6365,2411905,D. Karolchik,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor807,a5755,2069469406,Keith James,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor808,a3579,11811487,S. Vakkalanka,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j102,editor820,a1808,102755598,U. Abbas,da96c220-cd39-4894-bae6-d2d77c8e7aa9,Nucleic Acids Research,2
+j103,editor129,a2494,34303113,G. Pizzi,07a1179a-6cc7-4fad-b1f1-783a66be9a1a,Conservation Biology,1
+j103,editor203,a8363,2116218138,Qiong Wang,07a1179a-6cc7-4fad-b1f1-783a66be9a1a,Conservation Biology,1
+j103,editor638,a8409,88886095,J. Muller,07a1179a-6cc7-4fad-b1f1-783a66be9a1a,Conservation Biology,1
+j104,editor131,a8162,34420171,J. Tate,96c1b36d-3833-4ec5-8806-48b8a93f901d,Scientometrics,10
+j104,editor144,a401,49934155,D. Broadhurst,96c1b36d-3833-4ec5-8806-48b8a93f901d,Scientometrics,10
+j104,editor430,a5998,1786001,T. Gabaldón,96c1b36d-3833-4ec5-8806-48b8a93f901d,Scientometrics,10
+j104,editor565,a8855,1705151,M. Tamer Özsu,96c1b36d-3833-4ec5-8806-48b8a93f901d,Scientometrics,10
+j105,editor132,a5914,145687347,N. Schultz,3418dc73-cff9-4be2-882e-5014f80264c1,Behavior Research Methods,9
+j105,editor796,a5251,143970570,J. Malone,3418dc73-cff9-4be2-882e-5014f80264c1,Behavior Research Methods,9
+j106,editor134,a6823,143695311,R. Mehra,90b0ab9d-99a4-4572-b8e0-b404e618873d,International Journal of Exercise Science,5
+j107,editor135,a5027,2159798,H. Patterton,43b3f0f9-489a-4566-8164-02fafde3cd98,Nature Communications,2
+j107,editor760,a3388,2112800460,Xiaohui Hou,43b3f0f9-489a-4566-8164-02fafde3cd98,Nature Communications,2
+j108,editor136,a7012,48977994,T. Pastinen,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor174,a5979,5684400,F. Girolami,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor421,a9476,47355902,Hongyu Miao,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor449,a6916,79895217,J. Cole,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor453,a1306,49584752,A. Dellapenna,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor623,a6951,145880371,C. Kooperberg,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor692,a4237,144658639,A. Pretschner,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j108,editor799,a8615,2363439,V. Kapitonov,0aed7a40-85f3-4c66-9e1b-c1556c57001b,PLoS ONE,4
+j336,editor710,a7012,48977994,T. Pastinen,65967e36-f7db-476f-9d00-fd080a5a8483,IEEE Transactions on Circuits and Systems Part 1: Regular Papers,0
+j109,editor137,a9170,89907775,J. Sardans,17c57465-210d-4f43-a033-59d25938d6b6,American Journal of Political Science,0
+j110,editor138,a4177,15132338,Xiaoyuan Jing,171758eb-39e1-4665-a00d-dd65ec7d465e,Political Analysis,6
+j111,editor141,a2729,70030655,K. Dooley,b08588b2-9ba8-4469-a6d4-f0b88977b64f,Journal of Evidence-Based Medicine,9
+j112,editor142,a10446,9830709,S. Thorwirth,43d8ff46-e680-4c40-84dc-a8f86d3f559b,Cambridge International Law Journal,6
+j112,editor252,a8935,144913011,A. Starkey,43d8ff46-e680-4c40-84dc-a8f86d3f559b,Cambridge International Law Journal,6
+j112,editor255,a7015,8655173,Simon Koplev,43d8ff46-e680-4c40-84dc-a8f86d3f559b,Cambridge International Law Journal,6
+j113,editor147,a550,74823287,S. Farley,5e19119a-7591-4c54-8255-61a8db3575d5,Review of Economics and Statistics,1
+j114,editor148,a378,46916438,R. Balling,883c4931-50cd-44e1-a9cb-06b9f8a104a5,EMBO Reports,5
+j115,editor150,a174,1681254,M. Reinders,9eb2f5b8-afd8-467c-afe3-a65fd0a13773,Political Science Research and Methods,3
+j116,editor151,a10089,39235843,P. Dubois,f9ed10b1-8312-414e-a948-49bbffb263bf,Ambio,7
+j117,editor155,a799,2500824,K. März,8e7d91d2-bc50-4bc6-8350-1bd4b4fdab9b,Medicine & Science in Sports & Exercise,2
+j119,editor157,a69,1401282143,Jose A. Navas-Molina,dc6419f3-98b3-4718-bba0-6b6d6c3d192b,JMIR Medical Informatics,6
+j120,editor159,a2453,143914383,C. Piker,43bc7ffd-a6e5-4d65-b2a2-2686696efbc5,Brain Imaging and Behavior,7
+j121,editor160,a9182,2113329742,S. White,ee2dd599-75c3-4b69-b970-053972631b37,Big Data Research,5
+j122,editor161,a8522,145160921,Bryan C. Russell,09a61721-0363-4426-9f33-3c4c8580b890,Sustainability Science,0
+j123,editor163,a2358,8405112,A. Arguez,63f2d4cb-31e9-465e-a09f-a48b034b7210,EURASIP Journal on Advances in Signal Processing,2
+j124,editor166,a8485,40595529,S. Tashkun,7b19fb63-6e4e-4972-bd80-9e2b17941c95,Royal Society Open Science,2
+j125,editor167,a8962,2067184766,V. Anand,5218cd8f-e9a8-4825-8fcf-ffab8230c857,Public Understanding of Science,9
+j125,editor186,a5188,1620874789,Bailey K. Phan,5218cd8f-e9a8-4825-8fcf-ffab8230c857,Public Understanding of Science,9
+j126,editor169,a10449,2075670585,Christos Papachristou,a990ee76-444c-4bda-b714-df4dad0efa5d,Psychology Science,6
+j127,editor171,a9095,2265657,J. Elser,76ab3377-0a5b-4243-9b06-e2eede0f20de,Trends in Ecology & Evolution,2
+j127,editor173,a10629,145461182,M. Clausen,76ab3377-0a5b-4243-9b06-e2eede0f20de,Trends in Ecology & Evolution,2
+j128,editor175,a3232,1398381803,G. Piatetsky-Shapiro,969f020f-55f8-4f57-9d3a-61542e237f8a,Immunologic research,8
+j129,editor177,a2856,145982223,K. Hodge,312ca99c-9149-490d-813e-c60d5e949f65,Concurrency and Computation,10
+j130,editor178,a5673,10127406,L. Liotta,f99f77b7-b1b6-44d3-984a-f288e9884b9b,Scientific Reports,6
+j130,editor373,a7486,143721003,J. Gálvez,f99f77b7-b1b6-44d3-984a-f288e9884b9b,Scientific Reports,6
+j130,editor537,a4111,144414111,E. Mendes,f99f77b7-b1b6-44d3-984a-f288e9884b9b,Scientific Reports,6
+j131,editor179,a8825,3062916,B. Shoichet,982ee153-9191-4993-89ff-b61eb14cdfcb,Astrophysical Journal Supplement Series,1
+j291,editor688,a8825,3062916,B. Shoichet,748e730b-add9-47ee-819d-8ae54e504ef9,IEEE Transactions on Information Theory,0
+j291,editor616,a7702,2780881,L. Lacasa,748e730b-add9-47ee-819d-8ae54e504ef9,IEEE Transactions on Information Theory,0
+j291,editor697,a1906,153088327,C. Fabre,748e730b-add9-47ee-819d-8ae54e504ef9,IEEE Transactions on Information Theory,0
+j291,editor703,a9425,48772938,I. Garkavtsev,748e730b-add9-47ee-819d-8ae54e504ef9,IEEE Transactions on Information Theory,0
+j272,editor582,a6246,2594093,S. Jegelka,e02530e7-d355-4769-a1c4-785277f87aef,International Journal of Bioinformatics Research and Applications,8
+j132,editor185,a1002,2118944405,Xianhua Song,1196488a-e9f3-43c5-84ae-d934dd84ccbf,Prevention Science,6
+j235,editor813,a1002,2118944405,Xianhua Song,2c469df0-fa01-4dee-8f25-0d87a6fc4ef1,Proteomics,5
+j235,editor486,a1601,None,Gabriel Gorsky,2c469df0-fa01-4dee-8f25-0d87a6fc4ef1,Proteomics,5
+j235,editor765,a2100,133931472,E. Utrilla,2c469df0-fa01-4dee-8f25-0d87a6fc4ef1,Proteomics,5
+j133,editor189,a3915,144938348,J. Rosenberg,0cfd46d3-bc04-49e9-9bfe-6c194b418613,Social Studies of Science,1
+j134,editor192,a7250,6947162,M. G. Vergniory,657a4bec-9a11-40fb-acfe-243d7fb993ae,Frontiers in Earth Science,3
+j135,editor195,a3665,19258328,Nitish M. Devadiga,3567d187-af59-4171-97a3-abc4d6beb1bf,"Marketing science (Providence, R.I.)",1
+j136,editor196,a1885,2063744724,A. Dapergolas,f6537e0e-c3a9-4de5-bd36-19eda0434065,Journal of the Royal Society Interface,6
+j137,editor198,a3586,2949836,Michael Mattsson,0a8df943-e5dc-4a57-b26f-ca35e4e09a97,SIAM Journal on Mathematics of Data Science,10
+j247,editor594,a1605,3664262,R. Troublé,2ac50919-507e-41c7-93a8-721c4b804757,IEEE Transactions on Neural Networks,1
+j247,editor515,a7751,31653964,J. Verbunt,2ac50919-507e-41c7-93a8-721c4b804757,IEEE Transactions on Neural Networks,1
+j138,editor201,a3041,47975256,A. Lupia,9cc701cf-1f49-4121-8ea9-11bac24d61ad,IEEE Transactions on Big Data,4
+j342,editor720,a3041,47975256,A. Lupia,127cc63d-75ce-4cfb-9d35-18641daba70c,Mathematical programming,7
+j139,editor204,a1811,66720029,C. Aerts,d4a5e814-e8a0-4c10-aaa6-ebdc39421fec,Light: Science & Applications,4
+j140,editor205,a10672,3181337,Yipin Lu,85ac1a60-0578-4aae-894f-f726ea558d4c,Community Dentistry and Oral Epidemiology,8
+j142,editor207,a10395,145906217,C. Derow,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor218,a4279,2944611,O. Karam,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor227,a7383,3028201,S. Derrible,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor233,a5454,46870998,H. Plaisier,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor235,a4606,2056809516,R. Olson,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor242,a8400,3314036,A. Nesvizhskii,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor246,a3351,5190462,D. Shern,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor257,a8851,1401943939,P. Marín-García,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor272,a4891,145831777,R. Wallace,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor285,a4709,2055310399,Stefan Decker,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor293,a4768,39693992,Binhua Tang,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor313,a482,2150671055,Yu Feng,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor315,a4103,47455987,F. Robert,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor319,a10417,115513269,Miguel Ferreira,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor323,a6375,144153846,R. Weber,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor332,a977,143786158,W. Hall,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor340,a6557,3329398,S. Brenner,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor342,a3432,7917002,Xuehai Wu,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor351,a8345,2579653,M. Gwadz,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j142,editor690,a3417,20053656,J. Nielsen,c99cfe66-b71c-4ca4-bedd-26267b9cb068,IEEE Transactions on Software Engineering,1
+j143,editor208,a8249,4501624,P. Masterson,518d38cf-179f-480b-b32a-c9d4e6bba46e,Informatik-Spektrum,5
+j144,editor210,a6309,48244947,Weijun Luo,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor211,a4750,2678967,S. Tyanova,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor219,a1738,98216556,N. Cheek,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor243,a707,49581425,Gully A. Burns,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor244,a3777,2748720,C. Klein,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor245,a9623,32321832,S. Ramsden,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor262,a7153,1949200,Christopher J. Lee,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor267,a7243,3442627,A. Q. Baig,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor274,a8525,3409858,Nicholas Waglechner,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor275,a10183,2433841,A. Merrill,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor278,a8747,1509741464,Jae-Won Cho,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor281,a10144,50223416,P. Dietze,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor282,a6291,145766270,L. Old,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor297,a2629,123524657,J. Camp,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor305,a7141,2876507,O. Carugo,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor306,a1832,3629705,D. Barrado,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor321,a6280,2058849474,S. Marie,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor330,a6879,2089395366,L. Scortichini,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j144,editor339,a5996,1395596878,S. Capella-Gutiérrez,64ae7767-9467-4e70-9e31-e4185f9f16ff,Information and Software Technology,8
+j145,editor215,a9951,66282241,M. T. Zsu,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor221,a4576,2000280073,Lukas Zimmermann,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor284,a7383,3028201,S. Derrible,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor229,a8903,38200115,Lindsay Ramage,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor239,a2467,145531067,H. Jagadish,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor249,a9847,145302015,C. Boggis,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor256,a1369,91742754,N. Kallivayalil,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j145,editor264,a4004,1973939,Jochen Wuttke,10a4a695-8417-42c7-983d-742df48b3905,Journal of Systems and Software,9
+j146,editor216,a6714,2140934477,M. Zhuravleva,0730105a-4941-449f-9450-28cba8ae056b,ACM Transactions on Software Engineering and Methodology,7
+j148,editor237,a5867,47403471,Sitao Wu,f8c1288e-7248-48b1-9c43-c80bb91e8cad,Journal of Software Engineering Research and Development,3
+j149,editor238,a998,143975793,A. Choudhary,78ebe7c1-b88c-4801-9d98-700a1c791a61,"Software testing, verification & reliability",8
+j150,editor248,a3216,50238621,D. Latham,558a3215-8ffd-4b31-be7f-f653ca3b600d,PeerJ,4
+j151,editor259,a845,1752722,F. Provost,2135230a-3b24-4b71-9583-60624389377a,IEEE Transactions on Industrial Informatics,0
+j152,editor260,a8597,40131608,A. Yazdani,22ec5dc2-bb5e-4fea-a7dd-61676b6e7f78,IEEE Annals of the History of Computing,10
+j152,editor314,a3484,2055678827,J. Sheehan,22ec5dc2-bb5e-4fea-a7dd-61676b6e7f78,IEEE Annals of the History of Computing,10
+j236,editor487,a7153,1949200,Christopher J. Lee,b01967aa-e4aa-4814-93ce-93daff8f618f,Methods of biochemical analysis,10
+j153,editor265,a3836,143969104,David Bowes,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor376,a8716,1403866006,V. Crécy-Lagard,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor390,a73,1414102859,Samuel L. Peoples,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor397,a4825,2304148,T. Anderson,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor400,a2508,2013947833,H. Bernard,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor405,a1189,1409736665,Alison E. Walter,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor408,a452,3681654,T. McPhearson,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor511,a6511,2480093,U. Hinz,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor520,a10606,144330505,M. Cohen,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor533,a1793,102589097,A. Moitinho,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor534,a2437,7695765,M. Chutter,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j153,editor612,a6475,2960827,S. Rosanoff,027ffd21-ebb0-4af8-baf5-911124292fd0,bioRxiv,2
+j154,editor266,a1853,51241382,M. Breddels,3da56ce6-4a70-402c-a8b0-7dd39a3273d3,"Software, Practice & Experience",10
+j155,editor271,a894,1803567,K. Veeramachaneni,592a2b9d-14a1-4476-8b68-1d3a2f209898,Advances in Software Engineering,6
+j156,editor277,a1741,1746422,B. Holl,9e813668-7b2e-4506-9e7e-4a285f318e46,Springer US,3
+j156,editor439,a5605,1405449481,M. El-Kalioby,9e813668-7b2e-4506-9e7e-4a285f318e46,Springer US,3
+j157,editor291,a10134,2214297410,Zhigang Zhou,fe9174dc-ba90-4d03-929c-4edaf60d2a64,Requirements Engineering,1
+j158,editor296,a7388,1757913,D. Gleich,96018464-22dc-4b5c-a172-c2f4a30ce131,Artificial Intelligence,8
+j159,editor299,a166,46848946,Tzu-Hao Kuo,bc2801b8-b059-4ee4-be9a-cd1943f45bf3,Information Systems,10
+j160,editor308,a4913,104245322,M. Martínez,73585779-8f95-43d4-be17-c74ed16aebd9,Journal of Software,7
+j161,editor310,a6227,1716510,N. Paton,fb4d95f0-46a7-4feb-b6fb-bffa7b98f19a,IET Software,1
+j308,editor647,a2776,1964555,M. Frei,fd4c7628-c16e-4b50-8555-3ac3ad6da2d7,NeuroImage,7
+j162,editor324,a5392,88575023,Chih-wen Ou-yang,34d27e28-7f37-4875-ad8f-1018aced1e41,Systems Engineering,9
+j163,editor334,a10233,153105675,Renato Mancuso,e0706bac-2807-4453-89b8-cc7094693384,Journal of the American Society for Information Science,6
+j164,editor335,a5434,40941582,Kathryn M. Cooper,86b22730-8744-40a9-ae4d-d21830dfb282,Autonomous Agents and Multi-Agent Systems,9
+j165,editor337,a1170,20451793,V. Pronyaev,0cf6c0df-2bbb-4620-96c5-0bf91ed94d7a,Journal of Software and Systems Modeling,3
+j166,editor341,a5564,1800760,G. Santafé,f0e4908d-92b1-4f6a-8f01-f81c78e75c2d,International Journal on Software Tools for Technology Transfer (STTT),4
+j168,editor349,a3166,31837937,T. Murata,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor386,a9769,143759604,K. Bowyer,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor607,a9934,1692892,Nese Alyüz,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor636,a3113,2056371619,Bernard Walter Silverman,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor675,a5546,145412126,M. Beck,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor685,a10491,2445281,Kshitish Palvankar,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor689,a7448,2113712502,Alvaro Torres,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j168,editor704,a3295,6641037,D. Waller,6faaccca-1cc4-45a9-aeb6-96a4901d2606,Proceedings of the IEEE,1
+j169,editor352,a3161,49722691,A. Ichihara,b044d3cd-4725-4f77-b517-214706478060,Annals of Software Engineering,3
+j169,editor355,a6403,2119124136,James A. Smith,b044d3cd-4725-4f77-b517-214706478060,Annals of Software Engineering,3
+j170,editor357,a3337,1812710,A. G. Zoran,c9878648-1073-4243-811d-5e9479c350e9,Knowledge engineering review (Print),9
+j171,editor358,a4315,2108395434,Jaejoon Lee,ed3076f2-967a-47c8-b60d-7bea15e28461,Software Engineering Journal,8
+j172,editor363,a6638,6751473,X. Prieur,705a5f2b-aaf1-41fb-bc28-be78040b4587,Nature Protocols,8
+j172,editor491,a5959,4575521,B. Xavier,705a5f2b-aaf1-41fb-bc28-be78040b4587,Nature Protocols,8
+j173,editor367,a0,6391996,E. Bolyen,a7d48414-e40b-4441-829e-d9a349bea6fb,Journal of Molecular Biology,0
+j173,editor735,a6957,4023126,R. Lemmens,a7d48414-e40b-4441-829e-d9a349bea6fb,Journal of Molecular Biology,0
+j315,editor662,a2598,7020798,R. Bonnand,06e68fc0-4d5c-4ca2-8cc3-540e4f444a0c,Journal of the Australian Mathematical Society,9
+j174,editor369,a2702,5317183,H. Daveloza,1236e136-01b7-42d5-8c4a-593153a3ab37,Journal of Open Source Software,1
+j175,editor371,a1512,90555451,R. Berg,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,6
+j175,editor415,a6932,1906665,T. Harris,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,6
+j175,editor553,a3162,34939167,S. Chiba,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,6
+j175,editor574,a4142,1733990,M. Völter,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,6
+j175,editor822,a10473,47171374,K. Kumaran,f44976b5-2cb9-402a-bc59-6a174239987b,Nature reviews genetics,6
+j176,editor372,a5540,1854415,D. Chan,9970f803-8311-476b-888b-3c3affe3aad0,Experimental and Molecular Medicine,0
+j177,editor374,a8086,50477132,W. Klimke,6457124b-39bf-4d02-bff4-73752ff21562,Nature Machine Intelligence,0
+j178,editor375,a3700,1776164,K. Wnuk,8506a01a-40b8-4e6f-bbb8-ce2492139c15,International Journal of Molecular Sciences,10
+j178,editor396,a2747,152520046,M. Evans,8506a01a-40b8-4e6f-bbb8-ce2492139c15,International Journal of Molecular Sciences,10
+j178,editor473,a9519,40260079,K. Hata,8506a01a-40b8-4e6f-bbb8-ce2492139c15,International Journal of Molecular Sciences,10
+j179,editor377,a9112,40512897,S. Higgins,4e516638-5c1d-4699-8d1b-3b48f0d48ddc,Protein Science,6
+j179,editor539,a6319,40089479,Jim Thomason,4e516638-5c1d-4699-8d1b-3b48f0d48ddc,Protein Science,6
+j179,editor629,a1446,69058506,Robin C. Pike,4e516638-5c1d-4699-8d1b-3b48f0d48ddc,Protein Science,6
+j179,editor630,a525,1707756,M. Steinbach,4e516638-5c1d-4699-8d1b-3b48f0d48ddc,Protein Science,6
+j180,editor378,a1953,144627546,K. Janssen,7fe84005-586f-4604-98ee-fa60fe8ae618,Journal of Clinical Medicine,5
+j181,editor380,a4191,143606405,Ove Hansen,79c59592-820f-4ed1-87df-db795b4326be,Journal of medical systems,2
+j182,editor381,a7534,40514541,Jason Freeman,77d82a3b-88a9-4a01-b3f8-473032045c5d,Medicinal chemistry,0
+j183,editor382,a1932,145241055,S. Girona,3c8f4cec-a435-421a-b301-785e136e65e5,Journal of Infectious Diseases,5
+j184,editor383,a8203,2355783,P. Coutinho,df12d289-f447-47d3-8846-75e39de3ab57,Neurocomputing,5
+j185,editor384,a1159,79575255,R. Little,98dc4780-9354-4194-8b74-9cee4699ab66,SpringerPlus,10
+j187,editor388,a9383,3430745,Patsorn Sangkloy,0a96e67f-c1f1-491d-ab41-4c2c50b523a2,Genome Research,2
+j187,editor398,a1395,34769917,C. Lintott,0a96e67f-c1f1-491d-ab41-4c2c50b523a2,Genome Research,2
+j187,editor551,a9503,3293931,Masakazu Shimizu,0a96e67f-c1f1-491d-ab41-4c2c50b523a2,Genome Research,2
+j187,editor588,a9243,34624894,A. Smit,0a96e67f-c1f1-491d-ab41-4c2c50b523a2,Genome Research,2
+j188,editor389,a4360,144400802,I. John,3eceb08a-6b94-43fb-b3ba-1468f759573b,Analytical and Bioanalytical Chemistry,0
+j189,editor391,a4574,1788277,Iñaki Inza,f9827422-a381-440c-a8a4-e5e50415934e,Journal of Biomedical Informatics,3
+j189,editor436,a3604,1680103,Danny Weyns,f9827422-a381-440c-a8a4-e5e50415934e,Journal of Biomedical Informatics,3
+j189,editor488,a2199,2475417,I. Castiglioni,f9827422-a381-440c-a8a4-e5e50415934e,Journal of Biomedical Informatics,3
+j190,editor393,a5580,2108897378,Shane Wilson,054ddb2c-47fb-4de8-acfd-38566bec5015,Methods,2
+j192,editor401,a7199,1694232,O. Sporns,9bb66e11-4952-4228-997b-bdf48fdc94d5,Cancer Informatics,3
+j193,editor402,a9083,2778704,R. Bradstock,c0047299-4a6a-4b3f-a6f6-e89a0ab88470,GigaScience,3
+j194,editor403,a848,2667883,Goran Radanovic,ad63e55f-27c0-4ac0-9a28-01ed9d8ab0d5,Current Topics in Medicinal Chemistry,3
+j194,editor524,a4618,47110669,H. Yoo,ad63e55f-27c0-4ac0-9a28-01ed9d8ab0d5,Current Topics in Medicinal Chemistry,3
+j195,editor404,a3516,3057626,M. Munafo,59a6be0e-b047-4a97-a136-d94781c8adbd,Journal of B.U.ON. : official journal of the Balkan Union of Oncology,6
+j196,editor407,a3832,2059239851,Omar S. Gómez,1b0a86a4-e46f-4b08-b95f-adb96a8deea4,Microbes and Environments,9
+j197,editor409,a7992,145903504,R. Rosenfeld,678ce279-560b-4a6c-af55-ff68d5c2b544,Bioscience Reports,8
+j198,editor411,a3008,40412024,Z. Marka,1e853ea4-0f70-4d45-aa7e-7612a227cbcf,Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,9
+j199,editor412,a8201,2104035,H. G. Ramulu,b142707c-e6b5-427a-a6d4-313604e96add,Clinical Chemistry,9
+j199,editor451,a9045,7995028,Muratahan Aykol,b142707c-e6b5-427a-a6d4-313604e96add,Clinical Chemistry,9
+j200,editor416,a10415,2099356,L. Ferrand,38fdbaee-5a13-42a6-8bdf-b16b8f738b30,Current Protocols in Human Genetics,6
+j201,editor418,a8470,47300432,D. Long,a6935d84-c149-452d-8d38-799076f769a9,Network Modeling Analysis in Health Informatics and Bioinformatics,8
+j201,editor433,a10519,40319533,A. Ghias,a6935d84-c149-452d-8d38-799076f769a9,Network Modeling Analysis in Health Informatics and Bioinformatics,8
+j201,editor459,a3771,1400934713,N. D'Ippolito,a6935d84-c149-452d-8d38-799076f769a9,Network Modeling Analysis in Health Informatics and Bioinformatics,8
+j202,editor419,a8564,49674623,A. Leach,cdf4bb1c-e624-482e-8289-da2009c4c31a,Journal of Cellular Physiology,0
+j203,editor420,a9564,145048374,Javier Herrero,2c81369a-7566-4cf3-8e80-703dbcf65bda,Natural product reports (Print),2
+j204,editor422,a127,145481009,G. Peyré,d8fd7267-611b-4695-bc1e-77206e4dea5b,CBE - Life Sciences Education,0
+j205,editor424,a164,144226508,J. Korbel,7758f686-2a47-473d-835c-6784e70a0aac,Nature Chemical Biology,1
+j206,editor426,a3039,52459332,D. Ponz,164cf9d6-c9e8-41f0-b15d-00fa34cb4bd1,Analytical Chemistry,0
+j206,editor733,a443,3277480,F. Archetti,164cf9d6-c9e8-41f0-b15d-00fa34cb4bd1,Analytical Chemistry,0
+j206,editor797,a9619,2037768,F. McCarthy,164cf9d6-c9e8-41f0-b15d-00fa34cb4bd1,Analytical Chemistry,0
+j207,editor427,a5039,1382173699,Olivier B. Poirion,d8419692-fa10-4535-99f0-ff15a9836a3b,Biological Procedures Online,0
+j208,editor428,a2492,3298584,J. VandeVondele,f2ef2627-4ab1-43a8-a5c2-96f6d42b26ec,Influenza and Other Respiratory Viruses,10
+j209,editor432,a3957,2054094,K. Werder,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,2
+j209,editor505,a8750,2109648685,Hyojin Kim,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,2
+j209,editor550,a3368,1761695,R. Buckner,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,2
+j209,editor778,a3541,1403161889,A. G. López-Herrera,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,2
+j209,editor787,a2114,40327377,C. von Essen,b51ebc17-99ea-48ba-9271-1074f526a9a1,Human Mutation,2
+j210,editor434,a2179,50076239,Edin A. Muharemagic,fdeb07d1-a046-4a1a-98aa-167e7f8e667a,Frontiers in Oncology,1
+j211,editor435,a408,51219288,C. Torre,08ee3346-e195-4333-b008-be3a4f9e23cd,Biochimica et Biophysica Acta,6
+j212,editor437,a1161,30798234,R. Macfarlane,33a3a6f1-cd60-4248-bbd4-c85fe26b801a,Viruses,1
+j213,editor438,a1664,8839934,B. Meredig,ae370fd3-0802-4915-aee5-5168c616747a,Current Bioinformatics,0
+j213,editor454,a4153,1688347,G. Travassos,ae370fd3-0802-4915-aee5-5168c616747a,Current Bioinformatics,0
+j214,editor442,a8890,29969885,D. Freitag,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,10
+j214,editor649,a1295,144519234,K. Covey,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,10
+j214,editor650,a10040,40372577,Michael Darsow,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,10
+j214,editor665,a9404,2058609729,Neil D. Rawlings,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,10
+j214,editor809,a5170,1727118,Jolanta Jaromczyk,7270e188-d479-4233-b457-1d07288baaef,Journal of chemical information and computer sciences,10
+j215,editor446,a9956,49837448,T. Millar,7c7081ff-cde3-49d7-aa8a-8f29ecc4f0a0,Biology Direct,6
+j216,editor448,a8608,46847647,C. Robertson,57307fe3-fa8c-47ec-9b5d-4bab7fd699fc,Infection and Immunity,10
+j216,editor586,a10471,153125242,Goparani Mishra,57307fe3-fa8c-47ec-9b5d-4bab7fd699fc,Infection and Immunity,10
+j217,editor450,a5805,37501025,M. Johns,33f68909-043d-420c-b41b-00f6ee97db43,Journal of Inorganic Biochemistry,2
+j218,editor452,a9666,4159359,M. Lai,f13c562f-8530-4cef-a857-00c4f2d8403d,Molecular & Cellular Proteomics,9
+j218,editor467,a8612,2363556,M. Iwamoto,f13c562f-8530-4cef-a857-00c4f2d8403d,Molecular & Cellular Proteomics,9
+j220,editor457,a7677,1702379,J. Pach,40742290-7c4b-438e-8bbd-b937a9d707e4,Clinical pharmacology and therapy,0
+j221,editor460,a5730,1704422,K. Borgwardt,795999c5-a1ee-4c35-a6c8-7901212c798c,Plant and Cell Physiology,8
+j221,editor484,a9497,145579860,N. Miyake,795999c5-a1ee-4c35-a6c8-7901212c798c,Plant and Cell Physiology,8
+j221,editor774,a7390,3594527,F. Larocca,795999c5-a1ee-4c35-a6c8-7901212c798c,Plant and Cell Physiology,8
+j222,editor462,a8879,1778825,S. Paley,56753896-ea87-41d6-a80a-b4ddc8372318,Springer: New York,2
+j223,editor463,a7593,20827697,Margot D. Cantwell,267e4af9-5f9c-4dd7-ad9e-dbe2e21cc1e5,Physiological Genomics,0
+j223,editor570,a3973,12269863,Olavo Barbosa,267e4af9-5f9c-4dd7-ad9e-dbe2e21cc1e5,Physiological Genomics,0
+j224,editor464,a314,5178086,A. Chiolero,09246bed-4d95-4656-9c5b-5ce1b3074cb3,Plant Physiology,6
+j224,editor465,a5949,1401264674,R. Allesøe,09246bed-4d95-4656-9c5b-5ce1b3074cb3,Plant Physiology,6
+j224,editor747,a1450,145734579,P. Price,09246bed-4d95-4656-9c5b-5ce1b3074cb3,Plant Physiology,6
+j224,editor816,a7177,48147453,Vivek Rai,09246bed-4d95-4656-9c5b-5ce1b3074cb3,Plant Physiology,6
+j225,editor469,a3446,2107785095,C. Anderson,a8009bad-664b-465f-9fc2-8656bc637bc4,Advances in Experimental Medicine and Biology,9
+j226,editor470,a2449,153141242,J. Odom,35dfbad2-f0d5-49ac-9a05-f7da44efe120,Journal of Clinical Bioinformatics,7
+j226,editor478,a1522,34286355,Shin-Ywan Wang,35dfbad2-f0d5-49ac-9a05-f7da44efe120,Journal of Clinical Bioinformatics,7
+j227,editor474,a5840,39094883,J. McDowall,e26133f2-2f02-4bc5-a3ad-26bdbdc9636c,Trends in Genetics,7
+j227,editor804,a10434,3788995,M. Murray,e26133f2-2f02-4bc5-a3ad-26bdbdc9636c,Trends in Genetics,7
+j228,editor475,a2668,30117328,A. Colla,acdcc82c-368c-442a-92e8-0a2913177701,Nature Reviews Neurology,5
+j229,editor476,a4918,144599345,J. Hackett,91b19bbf-b6f0-46c2-bbec-6bcfb5463d4d,Molecules,2
+j230,editor477,a899,46838780,M. Swan,8ef352ff-f009-488c-8669-83bbc68d651c,Journal of Computing Science and Engineering,0
+j231,editor479,a4920,2320664,C. Chiu,2a08a97b-5c21-4ec1-a0fa-82807c4a992a,Toxicological Sciences,6
+j232,editor481,a1780,5963274,S. Hodgkin,4dbfe6f0-742b-4e3f-a64b-80278552db0d,Current Medicinal Chemistry,10
+j233,editor483,a2721,2107359952,M. Díaz,9c7806c9-5d45-4670-86ed-e7e052ef142a,Biochemical Society Transactions,7
+j234,editor485,a2346,1694121,Xingquan Zhu,2e5b2b9d-b39f-4cf0-ae86-4c9ff4011524,Nature Reviews Microbiology,7
+j234,editor554,a9473,2289498,T. Itoh,2e5b2b9d-b39f-4cf0-ae86-4c9ff4011524,Nature Reviews Microbiology,7
+j234,editor560,a7602,35224191,M. Capobianco,2e5b2b9d-b39f-4cf0-ae86-4c9ff4011524,Nature Reviews Microbiology,7
+j237,editor490,a1260,3587759,R. Blandford,e4782337-db2d-4ab2-8eda-a71d1c60709b,Cell,1
+j238,editor492,a8493,1729256,K. Marchal,52bd1f2f-5bb2-4bae-8674-c503b506c30e,Molecular biology and evolution,2
+j239,editor495,a5283,35896013,Clare Sloggett,fc27a8b5-9c12-424a-a71b-6f2c29bc17ec,Pharmacogenomics (London),4
+j240,editor496,a4805,2902461,Xingpeng Jiang,79ddd452-3c10-473b-9f28-5c7dd0dc4553,International Journal of Systematic and Evolutionary Microbiology,4
+j240,editor727,a7751,31653964,J. Verbunt,79ddd452-3c10-473b-9f28-5c7dd0dc4553,International Journal of Systematic and Evolutionary Microbiology,4
+j240,editor724,a6907,6469408,O. Benavente,79ddd452-3c10-473b-9f28-5c7dd0dc4553,International Journal of Systematic and Evolutionary Microbiology,4
+j241,editor499,a2224,4985569,T. Lyons,c0efe552-8a0a-41a7-8ce2-340fb0dbfe6f,Science Signaling,2
+j242,editor501,a2544,5395758,P. Astone,a1eabcca-9d3f-45ac-bb78-c024734a2b68,Genome Medicine,1
+j242,editor791,a8063,84430451,Devon Bourexis,a1eabcca-9d3f-45ac-bb78-c024734a2b68,Genome Medicine,1
+j243,editor503,a3740,145910365,E. Almeida,50dc9bd0-1c59-4773-8aaf-7fc39b21fe75,Journal of Antimicrobial Chemotherapy,7
+j244,editor504,a4060,32227042,Felipe Farias Maciel,3a435ff9-d0c3-4eb9-9a89-992c0f8bf398,Genes,0
+j245,editor507,a3722,3138980,Zhenchang Xing,5e1f6444-5d03-48c7-b202-7f47d492aeae,IEEE Transactions on Visualization and Computer Graphics,2
+j245,editor752,a7010,144636283,S. Yusuf,5e1f6444-5d03-48c7-b202-7f47d492aeae,IEEE Transactions on Visualization and Computer Graphics,2
+j246,editor512,a4963,1429727036,Arturo Vera-Ponce de León,95f5bdab-1f05-4090-899f-3869a15b5707,Methods of Information in Medicine,4
+j248,editor516,a1461,115259386,S. Ritz,40489137-49cf-485d-a673-9a7807f827b3,WHO chronicle,8
+j249,editor519,a8319,49569220,E. Bordeleau,7c9d091e-015e-4e5d-a11f-9bc369fcf414,IEEE Transactions on Parallel and Distributed Systems,4
+j250,editor523,a3799,3007951,Per Lenberg,43b87a47-bd26-4b65-918f-f9bbd159ea77,Human Genetics,2
+j251,editor526,a3719,2082225744,D. Sarvani,99b00e0c-56b4-4079-91b7-0fa64b30b1ca,Gut,1
+j252,editor527,a5945,2607663,M. Roberts,7295ba21-341d-47f2-910c-7f2f0dcb7cb5,Molecular Ecology Notes,8
+j253,editor528,a8054,143605744,L. Celi,c7bbca07-9604-48a6-85d8-512fa663722e,Journal of Proteome Research,1
+j254,editor529,a8543,80091479,X. Georgiou,fb7027bc-56d9-4d79-98c4-47861dc42d0b,Annual Review of Plant Biology,4
+j255,editor530,a7424,34938070,Stephan M. Wagner,2360b2ce-5340-4b89-b7d1-b4132d911e39,Journal of Experimental Botany,9
+j306,editor784,a9712,2773775,A. Mishonov,8baa4515-fac4-4b34-be0d-49385d586277,"Proteins: Structure, Function, and Bioinformatics",6
+j306,editor644,a3868,144884703,H. V. Vliet,8baa4515-fac4-4b34-be0d-49385d586277,"Proteins: Structure, Function, and Bioinformatics",6
+j370,editor781,a2437,7695765,M. Chutter,b482a99f-ef53-4694-aec6-32ad78e0d716,BMC Cancer,3
+j256,editor535,a448,144070372,A. Baklanov,3f7605a7-7e53-4ff7-8895-42f09a5f4355,Frontiers in Immunology,5
+j257,editor542,a2375,2113506991,David Baker,a71ee771-e530-4f7b-ac2f-30bb96af027b,International Journal of Plant Genomics,0
+j258,editor545,a8336,48278932,D. Dalevi,7da02f55-90e6-4b3f-a5a0-510ef6acc547,Statistical Applications in Genetics and Molecular Biology,9
+j259,editor546,a10294,2163232,P. Kapoor,7959fdab-81a2-4da4-8f2a-bd5855de5c6e,BMC Systems Biology,4
+j260,editor548,a2610,1968739,J. Breyer,15d4205f-903b-403c-9a2e-906f02ce04d8,Bioinformatics,10
+j279,editor601,a2610,1968739,J. Breyer,2085d930-2944-4d5b-8cfb-6d4ff288cc8a,IBM Systems Journal,0
+j261,editor555,a1211,3108699,L. Eikvil,ffcd6e1c-ab8a-4e6a-a080-da13704fc0d4,Biologia plantarum,8
+j262,editor556,a8030,92744944,M. Lightfoot,eea091f7-95c9-4359-b9e5-62a18bd20ab3,"Tanpakushitsu kakusan koso. Protein, nucleic acid, enzyme",6
+j263,editor559,a3509,50093142,M. Hulst,38278c2e-2198-4d61-b807-f318d824b077,Electrophoresis,8
+j264,editor561,a9781,2737123,Qinghua Jiang,278243c1-fe9f-46e8-bff7-cd9b9098bf2e,Briefings in Bioinformatics,2
+j265,editor563,a5171,2075342770,Daniel R. Harris,3b0987fd-daa6-4dd4-947c-4925c14712c0,BioData Mining,0
+j265,editor624,a1361,2081918868,Darko Jevremovi'c,3b0987fd-daa6-4dd4-947c-4925c14712c0,BioData Mining,0
+j266,editor568,a7607,144695850,G. Hogg,abda0c46-826f-441c-8920-70143ffcebc1,Biopolymers,10
+j267,editor569,a3661,2110826308,Hui Shen,894b1202-d279-49e2-9809-a2a20d8903b1,Current Opinion in Biotechnology,0
+j268,editor572,a6576,15932243,Matthew J Anstet,777d7a41-df2c-4867-a5ec-63920572d28f,Biometrics,9
+j269,editor576,a9991,2066457530,Michael Springer,f3edecc2-7c98-4a52-b947-a2f93c135501,Applied Bioinformatics,0
+j271,editor580,a7556,2096644304,N. Kannan,d8cfd1a0-d8da-4623-af29-0da236626f84,New Phytologist,3
+j273,editor583,a4604,20880122,E. Nordberg,286e2a9c-d493-424e-9165-83b5849167a1,Current molecular medicine,0
+j302,editor639,a4604,20880122,E. Nordberg,cb66f0d0-958c-4f1c-9758-86d4bfe89708,"Journal of Speech, Language and Hearing Research",2
+j274,editor587,a7229,1747482,L. Beineke,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor591,a1053,1709812,C. Heavey,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor600,a2451,8485029,R. Pfaff,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor771,a8880,3096267,Pallavi Subhraveti,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor777,a7245,1684017,Guanghong Yang,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor785,a110,143939190,R. Knight,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor793,a5724,122350444,M. Hecht,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j274,editor801,a1763,69866224,M. Clotet,bb27e645-e57c-42c3-bcbc-c7b443c58209,Nature Genetics,3
+j275,editor590,a7031,3894093,J. Chambers,1e7039c8-e30c-4af0-b7d3-f5e05dff5d21,Methods in Enzymology,2
+j275,editor814,a106,31733281,Z. Xu,1e7039c8-e30c-4af0-b7d3-f5e05dff5d21,Methods in Enzymology,2
+j276,editor592,a3705,1705734,M. Kessentini,66fa3a04-1561-48ac-8933-39a60b63cfad,Drug Discovery Today,4
+j277,editor593,a7343,145820668,A. Kaveh,3456d2d7-a9b4-495f-a7a0-a238096ee07a,Journal of Immunology,6
+j278,editor598,a5101,117826331,Rehab Ahmed,dbf292d2-556a-4a6e-9bda-974ae86b8b2f,Nature reviews. Immunology,2
+j280,editor602,a7434,2077674,Chris Harrelson,099a2ecc-54f9-42d3-9ea0-0189027aa04f,Journal of Biological Chemistry,5
+j280,editor635,a575,2344111,Hye‐Chung Kum,099a2ecc-54f9-42d3-9ea0-0189027aa04f,Journal of Biological Chemistry,5
+j281,editor604,a1036,144991539,Amit Chavan,2ca4279c-8ed7-4280-8022-09e577923a09,Frontiers in Neuroscience,8
+j282,editor605,a7505,1393670171,P. Valdes-Hernandez,c9c5c542-7b79-4541-b4d2-62ba2238733e,Frontiers in Bioengineering and Biotechnology,10
+j283,editor606,a7474,30770185,Duan Zhisheng,99191383-4095-456f-adc6-961e93a6a853,Dialogues in Clinical Neuroscience,1
+j284,editor608,a7595,146268311,B. Ic,0be18492-3c25-4a50-846f-165b92b3fb83,Journal of manufacturing science and engineering,7
+j285,editor609,a5707,1399013570,P. Tarczy-Hornoch,47ba6266-85d0-494a-a55a-927f8c599119,Engineering computations,4
+j286,editor610,a6617,1781512,D. Rigden,7e036404-bf67-4f4e-98c7-687e5b81692e,Bulletin of the Australian Mathematical Society,7
+j287,editor611,a2846,117264820,M. Heintze,0f3cd77d-0863-4f0c-9246-ea8abb4a5680,Oberwolfach Reports,7
+j288,editor613,a10658,3909011,E. Hajdu,9a49f4eb-4bd6-467d-8202-b660e8d05e7e,The Neuroscientist,2
+j289,editor614,a4186,1680416,Jeffrey C. Carver,a15f1020-494a-4b1b-be4a-29b72d37d7d5,Saudi Journal of Biological Sciences,10
+j290,editor615,a6788,2607234,R. Marangoni,26e5254e-7228-4f34-b3da-e1d652124983,Journal of Neuroscience Research,2
+j292,editor617,a7904,40396982,P. I. Richards,e92d0adf-ffa5-49b2-90bf-5dede4af11c5,Epilepsia,6
+j293,editor618,a3810,144191695,Rafael Maiani de Mello,b61ce141-a434-431b-a154-68fc26e348f3,Proceedings of the Royal Society A,9
+j294,editor619,a5533,3172933,R. Daneshjou,1572e966-ab0e-46aa-a20d-77561de5d7ba,Neurobiology of Aging,2
+j295,editor620,a10005,90544542,E. Herbst,7e331686-6620-4481-a3d5-5effffe9ab83,Biomedical Optics Express,7
+j295,editor627,a1830,74099533,F. Barblan,7e331686-6620-4481-a3d5-5effffe9ab83,Biomedical Optics Express,7
+j296,editor621,a5383,153471873,Min Song,74b0478a-292c-4fe3-bb2f-71f438f00cc7,Nature Reviews Neuroscience,10
+j297,editor622,a9698,2069708602,Xin Wen,677c9577-156b-4396-a0ea-3fa9d8038443,Research Synthesis Methods,2
+j298,editor625,a4921,5708429,Yasen Jiao,f4a7a77b-3fc0-4bae-ac62-619688a2b341,Transactions of the American Mathematical Society,5
+j300,editor631,a5538,34337383,J. Rosenzweig,8eabe4e5-3d91-4297-ab8f-475904598d30,BMC Neuroscience,10
+j301,editor634,a8234,48719842,O. Blinkova,0bebd3b7-9bc2-4d76-9916-59f72f7a4d30,Genetic Epidemiology,7
+j303,editor640,a5585,2194018,F. Sircoulomb,5e8c6a67-927f-4006-a14b-22f1eb7ec3d6,Current protein and peptide science,0
+j304,editor641,a855,72217764,D. Cielen,2dfd9d00-649a-480f-9e1a-be3cbb8b5c83,Evolutionary Applications,7
+j305,editor643,a2092,2107226692,M. B. Taylor,03ee5102-bee1-4f48-8745-b97b885b6afd,Ecological Applications,9
+j307,editor645,a10430,2054995853,Michael Strong,dd8a31c4-b5ed-47a4-9146-9e41b6ae9443,IET Systems Biology,2
+j309,editor648,a1237,152507974,P. Antilogus,98ea9a6a-c9d7-4b4e-97ec-ee582bd62fa2,Electronic Journal of Combinatorics,4
+j310,editor652,a42,4376295,A. Jarmusch,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,3
+j310,editor655,a6460,11852405,P. Garmiri,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,3
+j310,editor656,a6033,2056263326,Tadashi Koike,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,3
+j310,editor660,a6429,2146345020,Chao Yang,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,3
+j310,editor705,a7080,4651839,Shubha Suresh,d7d15b42-f092-422f-8287-cb47ffe4a422,Journal of Graph Theory,3
+j311,editor653,a984,48428771,S. Moutari,3efe0b58-b06e-42c1-8a30-01b13201c739,Landscape Ecology,7
+j312,editor654,a4491,1706219,D. R. Jeffery,2f38f299-9909-4c8e-a12e-76fca8afb42e,Discrete Mathematics,8
+j312,editor668,a7842,145557251,Rada Mihalcea,2f38f299-9909-4c8e-a12e-76fca8afb42e,Discrete Mathematics,8
+j312,editor677,a5881,2484932,A. Tivey,2f38f299-9909-4c8e-a12e-76fca8afb42e,Discrete Mathematics,8
+j313,editor658,a8984,2908470,M. Coutouly,1a167e40-5fcf-4a0c-ad62-48a6c87707b7,Canadian Journal of Mathematics - Journal Canadien de Mathematiques,5
+j313,editor661,a7025,143976740,E. Tai,1a167e40-5fcf-4a0c-ad62-48a6c87707b7,Canadian Journal of Mathematics - Journal Canadien de Mathematiques,5
+j313,editor719,a6603,3229687,J. Gurtowski,1a167e40-5fcf-4a0c-ad62-48a6c87707b7,Canadian Journal of Mathematics - Journal Canadien de Mathematiques,5
+j314,editor659,a4205,145953716,M. Wood,89f81207-2335-4d39-8422-919955037191,Acta Crystallographica Section B Structural Science,10
+j314,editor729,a2313,1699069,F. Herrera,89f81207-2335-4d39-8422-919955037191,Acta Crystallographica Section B Structural Science,10
+j314,editor766,a8577,2610867,Devi S. Somanathan,89f81207-2335-4d39-8422-919955037191,Acta Crystallographica Section B Structural Science,10
+j316,editor663,a9637,2927392,B. Maidak,cc43107f-e671-4f87-99f5-ae12f9992c0d,Mathematical Systems Theory,8
+j317,editor664,a548,143738684,Peng Cui,602bea1c-7ecb-43ec-a867-7666099e62c3,SIAM Journal on Discrete Mathematics,6
+j318,editor666,a1532,26388653,P. Yoachim,efbdaeaa-8666-4b29-8d96-36ed8a6c172f,Journal of combinatorial theory. Series B (Print),2
+j318,editor673,a7713,40112835,S. Kapoor,efbdaeaa-8666-4b29-8d96-36ed8a6c172f,Journal of combinatorial theory. Series B (Print),2
+j318,editor680,a4853,5028662,Eldin Talundzic,efbdaeaa-8666-4b29-8d96-36ed8a6c172f,Journal of combinatorial theory. Series B (Print),2
+j319,editor669,a7168,51310177,M. Stewart,f09e3439-2129-47ae-81c3-42fac2e6bf5c,American Scientist,10
+j320,editor670,a9895,3451029,Sylvie C. Fail,f4f9e4d0-b477-46a6-bd60-07475fc3a0bd,Adaptive Behavior,5
+j321,editor672,a8471,30030809,O. Lyulin,992e3995-f295-4778-a913-3fe2f227da3f,Mathematical Gazette,5
+j322,editor674,a6337,2068808064,P. D. Bakker,8a32f160-84d2-4c72-b3ab-c5de11116574,Journal of combinatorial theory. Series A,2
+j323,editor678,a206,1799502,P. Manghi,369b7733-9b48-4432-85b6-1e3e41080d1b,Applied Mathematical Sciences,0
+j324,editor679,a276,1706010,C. Brunsdon,e6bfdcb4-2a51-40d0-bba8-df275f223711,The VLDB journal,7
+j325,editor681,a9930,2066161367,T. Lowe,f854e875-59c8-4001-a920-0670366ec189,Ecosphere,0
+j326,editor683,a5882,32571228,S. Potter,1ef13c1d-f8f6-481d-877b-5c802a40f8d5,Nonlinear Biomedical Physics,10
+j328,editor686,a1715,74436622,C. Jordi,0ab10a19-5aec-4bd0-ba95-d98d85d33643,Ecology Letters,8
+j329,editor691,a9839,50193438,J. Izard,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,8
+j329,editor693,a3807,143825107,Igor Ebrahim dos Santos,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,8
+j329,editor696,a633,2979685,Christophe Ley,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,8
+j329,editor701,a3651,3216425,S. Charters,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,8
+j329,editor716,a5463,40505236,S. Kuhn,1283a59c-0d1f-48c3-81d7-02172f597e70,IEEE Transactions on Automatic Control,8
+j330,editor694,a10390,2061237038,David A. Fletcher,de34e080-a004-422c-b361-3ac450406f66,Multiscale Modeling & simulation,0
+j331,editor695,a2241,28924497,Brandon M Stewart,a0159c98-eac8-484a-856f-91ad681adf96,IEEE Transactions on Systems Science and Cybernetics,6
+j332,editor698,a9474,49293443,Zhiping Liu,859022e2-49ca-45d4-8e43-0fa45d44e934,Annual Review of Clinical Psychology,9
+j333,editor699,a7298,1706200,G. Chartrand,48bfb57a-bc20-4264-8899-7605c9e28d63,Neuroinformatics,1
+j334,editor702,a9326,3009531,T. Berardini,c7be0e82-620f-44c5-b6de-46310d59c7b8,IEEE Control Systems,0
+j335,editor708,a2682,1381247907,S. Countryman,31504b24-0c4f-400c-b427-1428893025ff,Journal of Statistical Software,2
+j337,editor711,a4568,2108703264,Yunhao Wang,4e46790b-e240-4236-9b8d-a70ed74f900a,IEEE Transactions on Mobile Computing,0
+j338,editor712,a3591,1795790,Lucy Ellen Lwakatare,4f96108e-f62c-48be-a31a-b3d1ad831330,Internet Mathematics,5
+j338,editor722,a3178,1778398,Lada A. Adamic,4f96108e-f62c-48be-a31a-b3d1ad831330,Internet Mathematics,5
+j339,editor713,a3219,9422303,S. Rinehart,f06e7ee6-cd20-45a8-91f9-6c84bcddc5fd,Optics Express,6
+j340,editor715,a9281,49248373,T. Kishida,0e3b51a7-21d8-477c-8918-14a55f087532,SIAM Journal on Scientific Computing,3
+j341,editor718,a4020,2114358413,Sugam Agarwal,f585b638-9311-4c6b-b910-0c90ccc2ee66,Journal of Computational Neuroscience,10
+j343,editor721,a475,4603017,Sudarshan A. Shetty,39b8b5dc-1ca2-4d60-9973-fb023d4d6c4c,Mathematics of Operations Research,9
+j344,editor730,a6935,145964452,S. Heckbert,643a31e6-3016-4604-beca-0edfc0e2a834,Applied and Environmental Microbiology,10
+j345,editor732,a10247,66559137,G. Dóka,e66d27b6-cdf4-44e9-9420-52fe00567139,The International Journal of Life Cycle Assessment,1
+j346,editor734,a1964,92773221,M. Kontizas,ebb34bf6-eb0a-4d70-81fc-53360c4c20b3,Cell Systems,1
+j347,editor737,a2309,39558258,S. García,fd4675fe-4136-446c-aefd-3658aae698ac,Journal of Cheminformatics,1
+j348,editor738,a9824,48437987,B. Cao,d10bf495-9155-454f-be8e-490180513492,Mobile DNA,5
+j349,editor739,a1817,50354580,A. Andrei,939ee07c-6009-43f8-b884-69238b40659e,International Journal of Computer Vision,7
+j350,editor740,a1162,102885499,M. Macinnes,a88e2a6c-903f-42e1-8dfc-f2547e32020a,IEEE Transactions on Affective Computing,6
+j350,editor767,a10662,50775022,D. Janussen,a88e2a6c-903f-42e1-8dfc-f2547e32020a,IEEE Transactions on Affective Computing,6
+j351,editor741,a3725,39682944,J. Li,6fdeda46-9d42-4591-a065-6d21c4986a89,Cytogenetic and Genome Research,4
+j352,editor742,a5469,46500693,Bela Tiwari,fbdeb2fb-ac8a-49ee-a405-19f76371141b,IEEE Engineering in Medicine and Biology Magazine,2
+j353,editor743,a3814,1718050,Yann-Gaël Guéhéneuc,9d1e9467-890b-44c6-92c4-5d604973af84,Journal of Biomolecular NMR,2
+j354,editor746,a6783,2596307,A. N. L. Hidalga,7dda5bd1-752f-45e5-bc7b-09633096916e,Language Resources and Evaluation,10
+j355,editor748,a9985,1946543,M. Gajda,6cc36eeb-d056-42c4-a306-7bcb239cc442,Image and Vision Computing,6
+j356,editor749,a1572,97403368,M. Schouppe,5e329303-0790-4991-832f-dd8a737ec6fb,Signal processing. Image communication,8
+j357,editor750,a1767,75039551,L. Delchambre,7a0fa873-9493-466e-aaf2-2eeb6a4d41f2,Antimicrobial Agents and Chemotherapy,8
+j358,editor751,a5092,12716368,Suresh Maslamoney,3f16aef5-6b9f-4f87-baca-cbf8147e352f,Journal of Chemical Information and Modeling,3
+j358,editor772,a2513,47902704,Andrew Yiu,3f16aef5-6b9f-4f87-baca-cbf8147e352f,Journal of Chemical Information and Modeling,3
+j359,editor753,a8535,9711147,Tariq Elsayegh,4927fc60-c4fd-4482-a987-8ce831e407cc,JAMA Oncology,10
+j360,editor755,a7194,38184860,P. Russel,7bcfec9d-4ece-43ad-8a9f-b653e1b3ec4e,Systematic Reviews,3
+j361,editor756,a9019,144267830,Andrey Gubarev,4e90b61b-3ae1-4b4c-9348-d67a3825e703,Medical Physics (Lancaster),2
+j362,editor757,a1458,153256142,M. Reuter,c999d5bf-6e3d-40df-a5a0-d32a59714a2d,RNA: A publication of the RNA Society,6
+j363,editor758,a7831,1394237404,R. Olfati-Saber,137f4fd6-2e4e-486f-9046-1e37e4301c91,Immunogenetics,3
+j364,editor762,a8067,119726475,Mark Cavanaugh,b5aaa937-18c7-4a65-84a1-52713f6080fe,Global Change Biology,8
+j365,editor769,a3512,2248921,C. Levitan,c68dc5a1-06e8-4c33-a6bd-1cbf7d2c7ff5,Biocontrol News and Information,9
+j366,editor770,a7545,145119734,R. Balakrishnan,aab03e41-f80d-48b3-89bd-60eeeceafc7d,ACM Transactions on Graphics,7
+j367,editor775,a6800,3104280,Mark Heiges,956bc149-0711-4d69-bb43-d462859b6f1d,Therapeutic Drug Monitoring,10
+j368,editor776,a4166,1807089,Sebastien Vaucouleur,aaf4c77b-c663-4009-862d-da25e19dfed2,Journal of Human Genetics,10
+j369,editor779,a1134,34653643,M. Dunn,4e6d067b-67a9-4c4c-886f-9ae510c6df38,Accounts of Chemical Research,6
+j371,editor782,a783,73349747,J. Madison,0f9e8bfc-fdfb-402f-bb26-c23177ec102a,Pharmacoepidemiology and Drug Safety,1
+j372,editor788,a9145,103656018,S. Nöllert,3010f82b-3d11-40b5-ab28-f956fb2c4cc6,"Behavoir research methods, instruments & computers",8
+j372,editor810,a4616,1795703,Fangfang Xia,3010f82b-3d11-40b5-ab28-f956fb2c4cc6,"Behavoir research methods, instruments & computers",8
+j374,editor790,a7931,144959157,A. Morse,46722266-4327-4a22-871d-5a9fe3c5ad0c,International Journal on Document Analysis and Recognition,9
+j375,editor792,a7102,2556236,P. Roepstorff,a7abfa95-0b9f-4416-9cd2-3271591663d2,British Journal of Cancer,9
+j376,editor794,a7018,2285734,M. Civelek,39fbefa9-1bb7-44ef-ab6a-18458e77cb8f,Novartis Foundation symposium,8
+j377,editor795,a9090,3031444,W. Cornwell,d148a331-a75b-4289-81bd-0686aab60bdc,Journal of Applied Crystallography,2
+j378,editor800,a1037,114189441,Aaron J. Elmore,477368e9-7a8e-475a-8c93-6d623797fd06,Multimedia tools and applications,1
+j379,editor802,a6045,1388884721,J. M. García-Gómez,b5b6ba6d-5b59-4229-9b9d-6e8b87e8e857,Springer Netherlands,10
+j380,editor811,a5277,1404291011,E. Bongcam-Rudloff,3b9c2af9-8503-4d14-a0de-af5ba0143ed2,PLoS Medicine,6
+j381,editor815,a7443,1853262,B. Devlin,2018b690-8eab-42c2-8397-9d67983f7a69,Biophysical Journal,7
+j382,editor817,a4733,2958240,Panu Artimo,47464297-4c88-44d5-9112-53a865e99be5,Applied Optics,1
+j383,editor821,a9629,1733797,T. Imielinski,4cce60a8-2106-4240-bece-fb6488df6bd1,Journal of Medicinal Chemistry,3

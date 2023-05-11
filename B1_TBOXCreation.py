@@ -268,11 +268,6 @@ def createTBOX():
 	graph.add((LAB.paperAcceptanceDate, RDFS.range, XSD.date))
 	graph.add((LAB.paperAcceptanceDate, RDFS.label, Literal("paperAcceptanceDate")))
 
-	graph.add((LAB.publicationRelatedTo, RDF.type, RDF.Property))
-	graph.add((LAB.publicationRelatedTo, RDFS.domain, LAB.FinalPaper))
-	graph.add((LAB.publicationRelatedTo, RDFS.range, LAB.SubjectDomain))
-	graph.add((LAB.publicationRelatedTo, RDFS.label, Literal("publicationRelatedTo")))
-
 	graph.add((LAB.isAs, RDF.type, RDF.Property))
 	graph.add((LAB.isAs, RDFS.domain, LAB.SubmittedPaper))
 	graph.add((LAB.isAs, RDFS.range, LAB.FinalPaper))
@@ -293,5 +288,5 @@ def createTBOX():
 graph = createTBOX()
 
 # Print out the entire Graph in the RDF Turtle format
-print(graph.serialize(format="turtle"))
+print(graph.serialize(format="ttl"))
 

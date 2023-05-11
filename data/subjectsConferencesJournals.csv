@@ -1,0 +1,496 @@
+conferenceJournalTitle,conferenceJournalId,subjectDomainName
+Nature Biotechnology,j0,"['Medicine', 'Biology', 'Engineering', 'Computer Science', 'Chemistry']"
+Workshop on Learning from Authoritative Security Experiment Results,c52,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+International Journal of Digital Earth,j11,"['Engineering', 'Computer Science']"
+International Conference on Machine Learning,c75,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Economics', 'Computer Science']"
+International Conference on Artificial Neural Networks,c76,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Conference on Data Science and Advanced Analytics,c13,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Chemistry']"
+"Annual review of political science (Palo Alto, Calif. Print)",j30,['Engineering']
+Annual Workshop of the Psychology of Programming Interest Group,c55,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Chemistry']"
+Americas Conference on Information Systems,c6,"['Medicine', 'Biology', 'Geography', 'Geology', 'Engineering', 'Mathematics', 'Economics', 'Computer Science']"
+International Workshop on Green and Sustainable Software,c44,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Workshop on Agent-Oriented Software Engineering,c54,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+International Conference on Image Analysis and Processing,c113,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+The Compass,c8,"['Medicine', 'Sociology', 'Environmental Science', 'Biology', 'Engineering', 'Computer Science', 'Chemistry', 'Political Science']"
+International Journal of Information Management,j56,"['Engineering', 'Computer Science']"
+International Conference on Agile Software Development,c33,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Mathematics', 'Computer Science']"
+Knowledge Discovery and Data Mining,c16,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Mathematics', 'Computer Science', 'Business']"
+Workshop on Algorithms in Bioinformatics,c73,"['Medicine', 'Sociology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+Journal of Data and Information Science,j58,"['Engineering', 'Computer Science']"
+Experimental Software Engineering Network,c64,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Economics', 'Computer Science']"
+Big Data,c10,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Political Science', 'Physics', 'Mathematics', 'Computer Science', 'Psychology']"
+International Conference on Biometrics,c102,"['Medicine', 'Engineering', 'Biology', 'Computer Science']"
+International Conference on Medical Image Computing and Computer-Assisted Intervention,c79,"['Medicine', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+ACM Symposium on Applied Computing,c43,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+Quantitative Science Studies,j81,"['Engineering', 'Computer Science']"
+Scientific Data,j14,"['Medicine', 'Materials Science', 'Biology', 'Geography', 'Engineering', 'Physics', 'Computer Science']"
+Networks,c77,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+Hawaii International Conference on System Sciences,c11,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'History']"
+Intelligent Systems in Molecular Biology,c72,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Conference on Statistical and Scientific Database Management,c12,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+"Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",c48,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Annual Conference on Innovation and Technology in Computer Science Education,c66,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Chemistry', 'History', 'Political Science']"
+IEEE Transactions on Software Engineering,j142,"['Engineering', 'Computer Science', 'Psychology']"
+International Conference on Human Factors in Computing Systems,c0,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Information and Software Technology,j144,"['Engineering', 'Computer Science']"
+Computer,j79,"['Engineering', 'Computer Science']"
+Journal of Systems and Software,j145,"['Engineering', 'Computer Science']"
+Empirical Software Engineering,j141,"['Engineering', 'Computer Science']"
+Human Language Technology - The Baltic Perspectiv,c93,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+EUROMICRO Conference on Software Engineering and Advanced Applications,c35,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+IEEE Software,j147,"['Engineering', 'Computer Science']"
+European Conference on Computer Vision,c87,"['Medicine', 'Materials Science', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+IEEE International Conference on Automatic Face & Gesture Recognition,c110,"['Medicine', 'Biology', 'Geology', 'Engineering', 'Mathematics', 'Economics', 'Computer Science', 'Business']"
+Conference on Uncertainty in Artificial Intelligence,c89,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Australian Software Engineering Conference,c58,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Conference on Graph Transformation,c85,"['Medicine', 'Engineering', 'Computer Science', 'Mathematics']"
+Joint Conference of International Workshop on Software Measurement and International Conference on Software Process and Product Measurement,c42,"['Medicine', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+International Conference on Global Software Engineering,c39,"['Medicine', 'Environmental Science', 'Biology', 'Geography', 'Engineering', 'Computer Science', 'Chemistry']"
+Annual International Conference of the IEEE Engineering in Medicine and Biology Society,c99,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+USENIX Symposium on Operating Systems Design and Implementation,c96,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Conference on Mobile Data Management,c109,"['Medicine', 'Environmental Science', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+Software Product Lines Conference,c41,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+IEEE International Conference on Engineering of Complex Computer Systems,c57,"['Medicine', 'Geography', 'Engineering', 'Mathematics', 'Computer Science']"
+International Conference on Software Engineering,c29,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Computer Science']"
+International Conference on Evaluation & Assessment in Software Engineering,c31,"['Medicine', 'Biology', 'Engineering', 'Economics', 'Computer Science']"
+Lecture Notes in Computer Science,j75,"['Engineering', 'Computer Science']"
+Cambridge International Law Journal,j112,"['Engineering', 'Computer Science']"
+International Symposium on Search Based Software Engineering,c49,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Computer Science']"
+European Conference on Software Process Improvement,c56,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Chemistry']"
+IEEE Transactions on Industrial Informatics,j151,"['Engineering', 'Computer Science']"
+IEEE Annals of the History of Computing,j152,"['Engineering', 'Computer Science']"
+British Computer Society Conference on Human-Computer Interaction,c59,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+"IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies",c45,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Art', 'Mathematics', 'Computer Science']"
+IEEE Symposium on Visual Languages / Human-Centric Computing Languages and Environments,c5,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Technical Symposium on Computer Science Education,c1,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Chemistry']"
+Brazilian Symposium on Software Engineering,c46,"['Medicine', 'Sociology', 'Biology', 'Geology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+Conference of the Centre for Advanced Studies on Collaborative Research,c51,"['Medicine', 'Sociology', 'Materials Science', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+International Conference on Data Technologies and Applications,c22,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+International Conference on Software Reuse,c62,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Political Science']"
+Grid Computing Environments,c21,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Business']"
+Vision,c94,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+Interspeech,c97,"['Medicine', 'Environmental Science', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+International Conference on Parallel Processing,c69,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+International Conference on Software Engineering and Knowledge Engineering,c53,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Chemistry', 'Psychology']"
+International Conference on Conceptual Structures,c15,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Symposium on the Theory of Computing,c88,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+Jahrestagung der Gesellschaft für Informatik,c61,"['Medicine', 'Biology', 'Geography', 'Geology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+International Symposium on Empirical Software Engineering and Measurement,c47,"['Engineering', 'Biology', 'Computer Science', 'Chemistry']"
+International Conference on Enterprise Information Systems,c17,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Economics', 'Computer Science', 'Chemistry']"
+Biometrics and Identity Management,c105,"['Medicine', 'Biology', 'Geography', 'Engineering', 'Physics', 'Mathematics', 'Computer Science', 'Chemistry', 'Psychology']"
+British Machine Vision Conference,c107,"['Medicine', 'Sociology', 'Biology', 'Geography', 'Engineering', 'Mathematics', 'Economics', 'Computer Science']"
+European Conference on Modelling and Simulation,c7,"['Medicine', 'Engineering', 'Biology', 'Computer Science']"
+IEEE International Conference on Robotics and Automation,c114,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+IEEE Aerospace Conference,c30,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems,c86,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+International Society for Music Information Retrieval Conference,c111,"['Engineering', 'Computer Science', 'Mathematics']"
+Workshop on Algorithms and Models for the Web-Graph,c91,"['Medicine', 'Biology', 'Geography', 'Geology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+IEEE transactions on computers,j167,"['Engineering', 'Computer Science']"
+Conference on Innovative Data Systems Research,c18,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+Enterprise Application Integration,c67,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+Neural Information Processing Systems,c78,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+International Conference on Learning Representations,c80,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+IEEE Working Conference on Mining Software Repositories,c34,"['Medicine', 'Sociology', 'Biology', 'Engineering', 'Mathematics', 'Economics', 'Computer Science']"
+International Conference on Automated Software Engineering,c50,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Political Science']"
+Formal Concept Analysis,c65,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Business']"
+BMC Bioinformatics,j85,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+IEEE International Conference on Information Reuse and Integration,c71,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science']"
+IEEE International Conference on Software Engineering and Formal Methods,c60,"['Medicine', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+IEEE International Conference on Computer Vision,c95,"['Medicine', 'Biology', 'Engineering', 'Mathematics', 'Computer Science', 'Psychology']"
+IEEE Transactions on Automatic Control,j329,"['Engineering', 'Computer Science', 'Mathematics']"
+IEEE Engineering in Medicine and Biology Magazine,j352,"['Medicine', 'Engineering']"
+The Web Conference,c84,"['Medicine', 'Materials Science', 'Biology', 'Engineering', 'Physics', 'Mathematics', 'Computer Science']"
+PS,c26,"['Medicine', 'Engineering', 'Mathematics', 'Computer Science', 'Business', 'Political Science']"
+Journal of chemical information and computer sciences,j214,"['Medicine', 'Engineering', 'Mathematics', 'Computer Science', 'Chemistry']"
+SN Computer Science,j2,"['Medicine', 'Computer Science']"
+Genome Biology,j5,"['Medicine', 'Biology']"
+Nature Methods,j6,"['Medicine', 'Biology', 'Computer Science']"
+Chemical Reviews,j10,"['Medicine', 'Materials Science', 'Physics', 'Computer Science', 'Chemistry']"
+Journal of Epidemiology and Community Health,j15,['Medicine']
+Patterns,j18,"['Medicine', 'Computer Science', 'Psychology']"
+Proceedings of the National Academy of Sciences of the United States of America,j20,"['Medicine', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+Philosophical Transactions of the Royal Society of London. Biological Sciences,j21,"['Medicine', 'History']"
+BMC Medicine,j22,['Medicine']
+Metabolomics,j24,"['Medicine', 'Computer Science']"
+Journal of Medical Internet Research,j25,"['Medicine', 'Computer Science']"
+Journal of Biosciences,j33,"['Medicine', 'Computer Science']"
+Journal of Physics: Condensed Matter,j41,"['Medicine', 'Physics']"
+Chest,j43,['Medicine']
+Research Conference of the South African Institute of Computer Scientists and Information Technologists,c20,"['Medicine', 'Sociology', 'Biology', 'Geography', 'Mathematics', 'Computer Science']"
+International Journal of Population Data Science,j45,"['Medicine', 'Sociology']"
+Nature Human Behaviour,j48,"['Medicine', 'Psychology']"
+Pacific Symposium on Biocomputing,c9,"['Medicine', 'Biology', 'Geology', 'Mathematics', 'Computer Science', 'Chemistry', 'Business', 'Political Science']"
+Ethnicity & Disease,j51,"['Medicine', 'Business']"
+Data Science,j52,"['Medicine', 'Computer Science']"
+Nature Biomedical Engineering,j54,"['Medicine', 'Psychology']"
+ACM-SIAM Symposium on Discrete Algorithms,c27,"['Medicine', 'Biology', 'Economics', 'Mathematics', 'Computer Science']"
+American Statistician,j16,"['Medicine', 'Sociology', 'Political Science', 'Mathematics', 'Computer Science', 'Psychology']"
+PLoS Biology,j60,"['Medicine', 'Biology']"
+Nature,j62,"['Medicine', 'Materials Science', 'Physics', 'Computer Science', 'Political Science']"
+Expert Opinion on Drug Discovery,j63,"['Medicine', 'Biology']"
+Frontiers in Genetics,j68,"['Medicine', 'Biology', 'Computer Science']"
+ACM Conference on Economics and Computation,c19,"['Medicine', 'Geography', 'Mathematics', 'Economics', 'Computer Science', 'Business', 'Psychology']"
+Nursing Administration Quarterly,j72,['Medicine']
+Advancement of science,j83,"['Medicine', 'Physics']"
+Physical Review Letters,j91,"['Medicine', 'Computer Science', 'Physics']"
+Annual Conference on Genetic and Evolutionary Computation,c4,"['Medicine', 'Biology', 'Mathematics', 'Computer Science', 'Chemistry', 'Political Science']"
+Perspectives on Psychological Science,j96,"['Medicine', 'Computer Science', 'Psychology']"
+Science,j97,"['Medicine', 'Sociology', 'Environmental Science', 'Biology', 'Geography', 'Computer Science', 'Business', 'Psychology']"
+International Conference on Information Integration and Web-based Applications & Services,c108,"['Medicine', 'Sociology', 'Environmental Science', 'Biology', 'Physics', 'Mathematics', 'Art', 'Computer Science', 'Chemistry']"
+Social Science Research,j98,"['Medicine', 'Computer Science']"
+Nucleic Acids Research,j102,"['Medicine', 'Biology', 'Computer Science']"
+Conservation Biology,j103,"['Medicine', 'Sociology', 'Computer Science']"
+Behavior Research Methods,j105,"['Medicine', 'Computer Science', 'Psychology']"
+International Journal of Exercise Science,j106,"['Medicine', 'Sociology']"
+Nature Communications,j107,"['Medicine', 'Computer Science']"
+PLoS ONE,j108,"['Medicine', 'Business', 'Biology', 'Computer Science']"
+Journal of Evidence-Based Medicine,j111,['Medicine']
+EMBO Reports,j114,"['Medicine', 'Sociology']"
+Ambio,j116,"['Medicine', 'Computer Science']"
+Medicine & Science in Sports & Exercise,j117,"['Medicine', 'Computer Science']"
+Sociological Methods & Research,j118,"['Medicine', 'Computer Science', 'Psychology']"
+JMIR Medical Informatics,j119,['Medicine']
+Brain Imaging and Behavior,j120,['Medicine']
+Royal Society Open Science,j124,"['Medicine', 'Physics', 'Mathematics', 'Computer Science', 'Psychology']"
+Public Understanding of Science,j125,"['Medicine', 'Sociology']"
+Psychology Science,j126,"['Medicine', 'Psychology']"
+Trends in Ecology & Evolution,j127,"['Medicine', 'Computer Science']"
+Immunologic research,j128,['Medicine']
+Scientific Reports,j130,"['Medicine', 'Biology', 'Computer Science']"
+Prevention Science,j132,"['Medicine', 'Computer Science']"
+Social Studies of Science,j133,"['Medicine', 'Computer Science']"
+Journal of the Royal Society Interface,j136,"['Medicine', 'Biology', 'Computer Science', 'Physics']"
+Community Dentistry and Oral Epidemiology,j140,['Medicine']
+PeerJ,j150,"['Medicine', 'Computer Science']"
+bioRxiv,j153,"['Medicine', 'Biology', 'Computer Science']"
+Nature Protocols,j172,"['Medicine', 'Biology', 'Computer Science']"
+Journal of Molecular Biology,j173,"['Medicine', 'Computer Science']"
+IEEE International Conference on Software Maintenance and Evolution,c40,"['Medicine', 'Biology', 'Economics', 'Mathematics', 'Computer Science']"
+International Conference on Contemporary Computing,c25,"['Medicine', 'Biology', 'Physics', 'Mathematics', 'Computer Science', 'Political Science']"
+Journal of Open Source Software,j174,"['Medicine', 'Computer Science']"
+Workshop on Interdisciplinary Software Engineering Research,c82,"['Medicine', 'Sociology', 'Biology', 'Mathematics', 'Computer Science', 'Chemistry', 'Business']"
+Asia-Pacific Software Engineering Conference,c37,"['Medicine', 'Materials Science', 'Computer Science', 'Political Science']"
+Nature reviews genetics,j175,"['Medicine', 'Biology']"
+Experimental and Molecular Medicine,j176,"['Medicine', 'Biology']"
+ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing,c103,"['Medicine', 'Sociology', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+International Journal of Molecular Sciences,j178,"['Medicine', 'Biology']"
+Protein Science,j179,"['Medicine', 'Computer Science']"
+Decision Support Systems,c24,"['Medicine', 'Biology', 'Geography', 'Physics', 'Mathematics', 'Computer Science', 'Business']"
+Journal of Clinical Medicine,j180,['Medicine']
+ACM SIGMOD Conference,c100,"['Medicine', 'Environmental Science', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+"IEEE International Conference on Software Analysis, Evolution, and Reengineering",c38,"['Medicine', 'Environmental Science', 'Biology', 'Physics', 'Computer Science', 'Chemistry', 'Business']"
+Journal of medical systems,j181,"['Medicine', 'Computer Science']"
+Medicinal chemistry,j182,"['Medicine', 'Biology']"
+Journal of Infectious Diseases,j183,"['Medicine', 'Computer Science']"
+SpringerPlus,j185,"['Medicine', 'Computer Science']"
+BMC Microbiology,j186,"['Medicine', 'Biology']"
+Genome Research,j187,"['Medicine', 'Biology', 'Computer Science']"
+Analytical and Bioanalytical Chemistry,j188,"['Medicine', 'Computer Science']"
+Journal of Biomedical Informatics,j189,"['Medicine', 'Computer Science']"
+Methods,j190,"['Medicine', 'Computer Science']"
+Advances in Soft Computing,c92,"['Medicine', 'Biology', 'Computer Science', 'Mathematics']"
+Molecular Ecology Resources,j191,"['Medicine', 'Biology']"
+Cancer Informatics,j192,['Medicine']
+GigaScience,j193,"['Medicine', 'Computer Science']"
+Current Topics in Medicinal Chemistry,j194,"['Medicine', 'Computer Science']"
+Very Large Data Bases Conference,c112,"['Medicine', 'Materials Science', 'Biology', 'Mathematics', 'Computer Science', 'Business']"
+Journal of B.U.ON. : official journal of the Balkan Union of Oncology,j195,['Medicine']
+International Symposium on Intelligent Data Analysis,c2,"['Medicine', 'Biology', 'Mathematics', 'Computer Science', 'Psychology']"
+Microbes and Environments,j196,"['Medicine', 'Biology']"
+Bioscience Reports,j197,"['Medicine', 'Computer Science']"
+Clinical Chemistry,j199,"['Medicine', 'Computer Science', 'Chemistry']"
+Current Protocols in Human Genetics,j200,"['Medicine', 'Biology']"
+Journal of Cellular Physiology,j202,"['Medicine', 'Computer Science']"
+Natural product reports (Print),j203,"['Medicine', 'Biology']"
+Chinese Conference on Biometric Recognition,c106,"['Medicine', 'Sociology', 'Biology', 'Physics', 'Mathematics', 'Computer Science', 'Psychology']"
+CBE - Life Sciences Education,j204,"['Medicine', 'Computer Science']"
+Nature Chemical Biology,j205,"['Medicine', 'Biology']"
+Frontiers in Education Conference,c3,"['Medicine', 'Biology', 'Mathematics', 'Computer Science', 'Political Science']"
+Analytical Chemistry,j206,"['Medicine', 'Computer Science', 'Chemistry']"
+Biological Procedures Online,j207,"['Medicine', 'Biology']"
+Influenza and Other Respiratory Viruses,j208,"['Medicine', 'Biology']"
+Human Mutation,j209,"['Medicine', 'Biology']"
+Frontiers in Oncology,j210,"['Medicine', 'Biology']"
+International Workshop on Software Engineering for Large-Scale Multi-Agent Systems,c68,"['Medicine', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+Biochimica et Biophysica Acta,j211,"['Medicine', 'Biology']"
+Viruses,j212,"['Medicine', 'Biology']"
+Current Bioinformatics,j213,"['Medicine', 'Computer Science']"
+Biology Direct,j215,"['Medicine', 'Biology']"
+Infection and Immunity,j216,"['Medicine', 'Biology']"
+Journal of Inorganic Biochemistry,j217,"['Medicine', 'Biology']"
+Molecular & Cellular Proteomics,j218,"['Medicine', 'Computer Science', 'Chemistry']"
+IEEE/ACM Transactions on Computational Biology & Bioinformatics,j219,"['Medicine', 'Computer Science']"
+Clinical pharmacology and therapy,j220,"['Medicine', 'Biology']"
+IEEE Annual Symposium on Foundations of Computer Science,c81,"['Medicine', 'Biology', 'Computer Science', 'Mathematics']"
+Plant and Cell Physiology,j221,"['Medicine', 'Biology', 'Computer Science']"
+Physiological Genomics,j223,"['Medicine', 'Biology']"
+Plant Physiology,j224,"['Medicine', 'Biology']"
+Advances in Experimental Medicine and Biology,j225,"['Medicine', 'Computer Science']"
+IEEE International Software Metrics Symposium,c63,"['Medicine', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+Journal of Clinical Bioinformatics,j226,"['Medicine', 'Computer Science']"
+Trends in Genetics,j227,"['Medicine', 'Biology']"
+Nature Reviews Neurology,j228,['Medicine']
+Molecules,j229,"['Medicine', 'Computer Science']"
+Toxicological Sciences,j231,"['Medicine', 'Biology']"
+Current Medicinal Chemistry,j232,"['Medicine', 'Biology', 'Chemistry']"
+Biochemical Society Transactions,j233,"['Medicine', 'Biology']"
+Nature Reviews Microbiology,j234,"['Medicine', 'Biology']"
+Proteomics,j235,"['Medicine', 'Biology']"
+Cell,j237,"['Medicine', 'Biology']"
+Molecular biology and evolution,j238,"['Medicine', 'Biology']"
+International Conference on Computer Graphics and Interactive Techniques,c83,"['Medicine', 'Materials Science', 'Environmental Science', 'Biology', 'Computer Science']"
+Pharmacogenomics (London),j239,"['Medicine', 'Computer Science']"
+International Journal of Systematic and Evolutionary Microbiology,j240,"['Medicine', 'Biology']"
+Science Signaling,j241,"['Medicine', 'Biology']"
+Genome Medicine,j242,"['Medicine', 'Biology']"
+Journal of Antimicrobial Chemotherapy,j243,"['Medicine', 'Biology']"
+Genes,j244,"['Medicine', 'Computer Science']"
+IEEE Transactions on Visualization and Computer Graphics,j245,"['Medicine', 'Computer Science']"
+International Conference on Collaboration Technologies and Systems,c28,"['Medicine', 'Environmental Science', 'Biology', 'Mathematics', 'Computer Science']"
+Computer Vision and Pattern Recognition,c90,"['Medicine', 'Materials Science', 'Biology', 'Physics', 'Mathematics', 'Computer Science']"
+Methods of Information in Medicine,j246,"['Medicine', 'Computer Science']"
+IEEE Transactions on Neural Networks,j247,"['Medicine', 'Computer Science']"
+WHO chronicle,j248,['Medicine']
+IEEE International Conference on Tools with Artificial Intelligence,c74,"['Medicine', 'Biology', 'Physics', 'Mathematics', 'Economics', 'Computer Science', 'Chemistry', 'Psychology']"
+International Conference on Software Technology: Methods and Tools,c32,"['Medicine', 'Biology', 'Computer Science']"
+International Conference on Automatic Face and Gesture Recognition,c101,"['Medicine', 'Business', 'Biology', 'Computer Science']"
+Human Genetics,j250,"['Medicine', 'Biology']"
+Gut,j251,['Medicine']
+Molecular Ecology Notes,j252,"['Medicine', 'Biology']"
+Journal of Proteome Research,j253,"['Medicine', 'Biology']"
+Annual Review of Plant Biology,j254,['Medicine']
+Journal of Experimental Botany,j255,"['Medicine', 'Biology']"
+Frontiers in Immunology,j256,['Medicine']
+International Journal of Plant Genomics,j257,"['Medicine', 'Computer Science']"
+Statistical Applications in Genetics and Molecular Biology,j258,"['Medicine', 'Mathematics']"
+BMC Systems Biology,j259,"['Medicine', 'Biology', 'Computer Science']"
+Bioinformatics,j260,"['Medicine', 'Computer Science']"
+"Tanpakushitsu kakusan koso. Protein, nucleic acid, enzyme",j262,['Medicine']
+International Conference on Exploring Services Science,c14,"['Medicine', 'Biology', 'Computer Science', 'Mathematics']"
+Electrophoresis,j263,"['Medicine', 'Computer Science']"
+Briefings in Bioinformatics,j264,"['Medicine', 'Computer Science']"
+BioData Mining,j265,"['Medicine', 'Computer Science']"
+Biopolymers,j266,"['Medicine', 'Chemistry']"
+Current Opinion in Biotechnology,j267,"['Medicine', 'Biology']"
+Biometrics,j268,"['Medicine', 'Mathematics']"
+Applied Bioinformatics,j269,"['Medicine', 'Computer Science']"
+Journal of Proteomics & Bioinformatics,j270,"['Medicine', 'Biology']"
+New Phytologist,j271,"['Medicine', 'Biology']"
+International Journal of Bioinformatics Research and Applications,j272,"['Medicine', 'Computer Science']"
+Current molecular medicine,j273,"['Medicine', 'Biology']"
+Nature Genetics,j274,"['Medicine', 'Biology', 'Computer Science']"
+Methods in Enzymology,j275,"['Medicine', 'Biology', 'Computer Science']"
+Drug Discovery Today,j276,"['Medicine', 'Computer Science']"
+Journal of Immunology,j277,"['Medicine', 'Biology']"
+Nature reviews. Immunology,j278,"['Medicine', 'Biology']"
+Journal of Biological Chemistry,j280,"['Medicine', 'Biology', 'Physics']"
+Frontiers in Neuroscience,j281,"['Medicine', 'Computer Science']"
+Frontiers in Bioengineering and Biotechnology,j282,"['Medicine', 'Computer Science']"
+Dialogues in Clinical Neuroscience,j283,"['Medicine', 'Computer Science']"
+The Neuroscientist,j288,"['Medicine', 'Psychology']"
+Saudi Journal of Biological Sciences,j289,"['Medicine', 'Computer Science']"
+Journal of Neuroscience Research,j290,"['Medicine', 'Psychology']"
+Epilepsia,j292,"['Medicine', 'Psychology']"
+Neurobiology of Aging,j294,"['Medicine', 'Psychology']"
+Biomedical Optics Express,j295,"['Medicine', 'Computer Science']"
+Nature Reviews Neuroscience,j296,"['Medicine', 'Psychology']"
+Research Synthesis Methods,j297,"['Medicine', 'Computer Science']"
+IEEE Transactions on Pattern Analysis and Machine Intelligence,j299,"['Medicine', 'Computer Science', 'Mathematics']"
+BMC Neuroscience,j300,"['Medicine', 'Psychology']"
+Genetic Epidemiology,j301,"['Medicine', 'Biology']"
+"Journal of Speech, Language and Hearing Research",j302,"['Medicine', 'Mathematics']"
+Current protein and peptide science,j303,"['Medicine', 'Computer Science']"
+Evolutionary Applications,j304,"['Medicine', 'Biology']"
+Ecological Applications,j305,['Medicine']
+"Proteins: Structure, Function, and Bioinformatics",j306,"['Medicine', 'Biology', 'Chemistry']"
+IET Systems Biology,j307,"['Medicine', 'Biology', 'Computer Science']"
+NeuroImage,j308,"['Medicine', 'Computer Science', 'Mathematics']"
+Acta Crystallographica Section B Structural Science,j314,"['Medicine', 'Materials Science', 'Chemistry']"
+Nonlinear Biomedical Physics,j326,"['Medicine', 'Computer Science']"
+Ecology Letters,j328,"['Medicine', 'Computer Science']"
+North American Chapter of the Association for Computational Linguistics,c98,"['Medicine', 'Sociology', 'Environmental Science', 'Biology', 'Mathematics', 'Computer Science', 'Psychology']"
+Annual Review of Clinical Psychology,j332,"['Medicine', 'Computer Science']"
+Neuroinformatics,j333,"['Medicine', 'Computer Science', 'Mathematics']"
+Journal of Statistical Software,j335,"['Medicine', 'Computer Science']"
+Optics Express,j339,"['Medicine', 'Computer Science']"
+Journal of Computational Neuroscience,j341,"['Medicine', 'Biology', 'Computer Science', 'Mathematics']"
+Applied and Environmental Microbiology,j344,"['Medicine', 'Biology', 'Computer Science']"
+Cell Systems,j346,['Medicine']
+Journal of Cheminformatics,j347,"['Medicine', 'Computer Science']"
+Mobile DNA,j348,"['Medicine', 'Biology']"
+Cytogenetic and Genome Research,j351,"['Medicine', 'Biology']"
+Journal of Biomolecular NMR,j353,"['Medicine', 'Chemistry']"
+International Conference on Intelligent Robotics and Applications,c70,"['Medicine', 'Biology', 'Mathematics', 'Computer Science', 'Chemistry']"
+Antimicrobial Agents and Chemotherapy,j357,"['Medicine', 'Biology']"
+Journal of Chemical Information and Modeling,j358,"['Medicine', 'Computer Science']"
+JAMA Oncology,j359,['Medicine']
+Systematic Reviews,j360,['Medicine']
+Medical Physics (Lancaster),j361,['Medicine']
+RNA: A publication of the RNA Society,j362,"['Medicine', 'Biology']"
+Immunogenetics,j363,"['Medicine', 'Biology']"
+IEEE International Conference on Multimedia and Expo,c104,"['Medicine', 'Sociology', 'Biology', 'Economics', 'Mathematics', 'Computer Science']"
+Therapeutic Drug Monitoring,j367,"['Medicine', 'Chemistry']"
+Journal of Human Genetics,j368,"['Medicine', 'Biology']"
+Accounts of Chemical Research,j369,"['Medicine', 'Chemistry']"
+International Conference on Open and Big Data,c23,"['Medicine', 'Environmental Science', 'Biology', 'Mathematics', 'Computer Science']"
+BMC Cancer,j370,"['Medicine', 'Computer Science']"
+Pharmacoepidemiology and Drug Safety,j371,['Medicine']
+"Behavoir research methods, instruments & computers",j372,"['Medicine', 'Computer Science', 'Psychology']"
+British Journal of Cancer,j375,"['Medicine', 'Biology']"
+Novartis Foundation symposium,j376,"['Medicine', 'Computer Science']"
+Journal of Applied Crystallography,j377,"['Medicine', 'Computer Science']"
+PLoS Medicine,j380,"['Medicine', 'Biology']"
+Biophysical Journal,j381,"['Medicine', 'Biology']"
+Applied Optics,j382,"['Medicine', 'Computer Science']"
+Journal of Medicinal Chemistry,j383,"['Medicine', 'Chemistry']"
+Astrophysical Journal,j92,"['Computer Science', 'Physics']"
+MRS Communications,j93,"['Materials Science', 'Physics']"
+MRS bulletin,j94,"['Materials Science', 'Physics']"
+Astronomy & Astrophysics,j100,"['Environmental Science', 'Computer Science', 'Physics']"
+Astrophysical Journal Supplement Series,j131,['Physics']
+IEEE Transactions on Circuits and Systems Part 1: Regular Papers,j336,"['Computer Science', 'Physics', 'Mathematics']"
+Internet Mathematics,j338,"['Biology', 'Computer Science', 'Physics', 'Mathematics']"
+IEEE Transactions on Knowledge and Data Engineering,j1,"['Mathematics', 'Computer Science', 'Economics']"
+International Journal of Data Science and Analysis,j7,['Computer Science']
+Journal of Big Data,j8,['Computer Science']
+IEEE Transactions on Artificial Intelligence,j9,['Computer Science']
+Journal of Geographical Systems,j12,"['Computer Science', 'Mathematics']"
+IEEE Transactions on Signal Processing,j13,"['Computer Science', 'Mathematics']"
+Journal of Statistics and Data Science Education,j17,"['Computer Science', 'Mathematics']"
+Computer/law journal,j19,['Computer Science']
+Ethics and Information Technology,j23,['Computer Science']
+Journal of Library and Information Sciences,j27,['Computer Science']
+CHANCE : New Directions for Statistics and Computing,j28,['Computer Science']
+British Journal of Educational Technology,j29,"['Sociology', 'Computer Science']"
+Geographical Analysis,j32,['Computer Science']
+Proceedings of the VLDB Endowment,j34,['Computer Science']
+TOP - An Official Journal of the Spanish Society of Statistics and Operations Research,j35,"['Computer Science', 'Mathematics']"
+Journal of Statistics Education,j36,"['Computer Science', 'Mathematics']"
+Communications of the ACM,j37,['Computer Science']
+Journal of Library Administration,j39,['Computer Science']
+Journal of Social Computing,j42,"['Computer Science', 'Political Science']"
+BioScience,j44,['Computer Science']
+Computational Mechanics,j46,['Computer Science']
+Environmental Modelling & Software,j47,['Computer Science']
+ACM Computing Surveys,j49,"['Sociology', 'Computer Science']"
+Computer Applications in Engineering Education,j53,['Computer Science']
+Information systems research,j55,"['Computer Science', 'Economics']"
+Business & Information Systems Engineering,j57,['Computer Science']
+IEEE Computer Graphics and Applications,j59,['Computer Science']
+Journal of Decision Systems,j61,['Computer Science']
+IEEE Intelligent Systems,j64,['Computer Science']
+International Journal of System Dynamics Applications,j65,['Computer Science']
+Data Science Journal,j66,['Computer Science']
+IEEE Geoscience and Remote Sensing Magazine,j67,['Computer Science']
+IEEE Transactions on Services Computing,j69,['Computer Science']
+Statistics and computing,j70,['Computer Science']
+Communications in Computer and Information Science,j71,['Computer Science']
+Future generations computer systems,j73,['Computer Science']
+Statistical analysis and data mining,j74,"['Business', 'Computer Science']"
+Education and Information Technologies : Official Journal of the IFIP technical committee on Education,j76,['Computer Science']
+International Journal of Intelligent Computing and Cybernetics,j77,['Computer Science']
+College and Research Libraries,j78,"['Computer Science', 'Political Science']"
+Nature Reviews Methods Primers,j80,['Computer Science']
+Nuclear Data Sheets,j84,['Computer Science']
+Biological Conservation,j87,['Computer Science']
+ICES Journal of Marine Science,j89,['Computer Science']
+Data Intelligence,j90,['Computer Science']
+Comptes rendus. Mecanique,j95,['Computer Science']
+IEEE Transactions on Geoscience and Remote Sensing,j99,"['Environmental Science', 'Computer Science']"
+Earth-Science Reviews,j101,['Computer Science']
+Scientometrics,j104,"['Computer Science', 'Political Science']"
+Big Data Research,j121,"['History', 'Computer Science']"
+EURASIP Journal on Advances in Signal Processing,j123,['Computer Science']
+Concurrency and Computation,j129,['Computer Science']
+"Marketing science (Providence, R.I.)",j135,"['Business', 'Computer Science']"
+SIAM Journal on Mathematics of Data Science,j137,['Computer Science']
+IEEE Transactions on Big Data,j138,['Computer Science']
+Light: Science & Applications,j139,['Computer Science']
+Informatik-Spektrum,j143,['Computer Science']
+ACM Transactions on Software Engineering and Methodology,j146,['Computer Science']
+Conference on Software Engineering Education and Training,c36,"['Computer Science', 'Mathematics']"
+Journal of Software Engineering Research and Development,j148,['Computer Science']
+"Software testing, verification & reliability",j149,['Computer Science']
+"Software, Practice & Experience",j154,['Computer Science']
+Advances in Software Engineering,j155,['Computer Science']
+Springer US,j156,['Computer Science']
+Requirements Engineering,j157,['Computer Science']
+Artificial Intelligence,j158,['Computer Science']
+Information Systems,j159,['Computer Science']
+Journal of Software,j160,['Computer Science']
+IET Software,j161,['Computer Science']
+Systems Engineering,j162,['Computer Science']
+Journal of the American Society for Information Science,j163,['Computer Science']
+Autonomous Agents and Multi-Agent Systems,j164,['Computer Science']
+Journal of Software and Systems Modeling,j165,['Computer Science']
+International Journal on Software Tools for Technology Transfer (STTT),j166,['Computer Science']
+Proceedings of the IEEE,j168,"['Computer Science', 'Mathematics']"
+Annals of Software Engineering,j169,['Computer Science']
+Knowledge engineering review (Print),j170,['Computer Science']
+Software Engineering Journal,j171,['Computer Science']
+Nature Machine Intelligence,j177,['Computer Science']
+Neurocomputing,j184,['Computer Science']
+Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,j198,['Computer Science']
+Network Modeling Analysis in Health Informatics and Bioinformatics,j201,"['Business', 'Computer Science']"
+Journal of Computing Science and Engineering,j230,['Computer Science']
+Methods of biochemical analysis,j236,"['Biology', 'Computer Science']"
+IEEE Transactions on Parallel and Distributed Systems,j249,['Computer Science']
+IBM Systems Journal,j279,['Computer Science']
+Engineering computations,j285,['Computer Science']
+IEEE Transactions on Information Theory,j291,"['Computer Science', 'Mathematics']"
+Electronic Journal of Combinatorics,j309,"['Computer Science', 'Mathematics']"
+Journal of Graph Theory,j310,"['Computer Science', 'Mathematics']"
+Landscape Ecology,j311,['Computer Science']
+Discrete Mathematics,j312,"['Computer Science', 'Mathematics']"
+Mathematical Systems Theory,j316,"['Computer Science', 'Mathematics']"
+SIAM Journal on Discrete Mathematics,j317,"['Computer Science', 'Mathematics']"
+Journal of combinatorial theory. Series B (Print),j318,"['Computer Science', 'Mathematics']"
+American Scientist,j319,['Computer Science']
+Adaptive Behavior,j320,"['Computer Science', 'Psychology']"
+Journal of combinatorial theory. Series A,j322,"['Computer Science', 'Mathematics']"
+The VLDB journal,j324,['Computer Science']
+Ecosphere,j325,['Computer Science']
+IEEE Signal Processing Magazine,j327,"['Computer Science', 'Mathematics']"
+Multiscale Modeling & simulation,j330,"['Computer Science', 'Mathematics']"
+IEEE Transactions on Systems Science and Cybernetics,j331,['Computer Science']
+IEEE Transactions on Mobile Computing,j337,['Computer Science']
+SIAM Journal on Scientific Computing,j340,['Computer Science']
+Mathematical programming,j342,"['Computer Science', 'Mathematics']"
+Mathematics of Operations Research,j343,"['Computer Science', 'Mathematics']"
+The International Journal of Life Cycle Assessment,j345,['Computer Science']
+International Journal of Computer Vision,j349,['Computer Science']
+IEEE Transactions on Affective Computing,j350,"['Computer Science', 'Psychology']"
+Language Resources and Evaluation,j354,['Computer Science']
+Image and Vision Computing,j355,['Computer Science']
+Signal processing. Image communication,j356,['Computer Science']
+ACM Transactions on Graphics,j366,['Computer Science']
+ACM Transactions on Database Systems,j373,['Computer Science']
+International Journal on Document Analysis and Recognition,j374,['Computer Science']
+Multimedia tools and applications,j378,['Computer Science']
+Springer Netherlands,j379,['Computer Science']
+Springer: New York,j222,['Biology']
+Biologia plantarum,j261,['Biology']
+Global Change Biology,j364,['Biology']
+Biocontrol News and Information,j365,['Biology']
+Review of Economics and Statistics,j113,['Mathematics']
+Political Science Research and Methods,j115,['Mathematics']
+Bulletin of the Australian Mathematical Society,j286,['Mathematics']
+Proceedings of the Royal Society A,j293,['Mathematics']
+Transactions of the American Mathematical Society,j298,['Mathematics']
+Canadian Journal of Mathematics - Journal Canadien de Mathematiques,j313,['Mathematics']
+Journal of the Australian Mathematical Society,j315,['Mathematics']
+Mathematical Gazette,j321,['Mathematics']
+Applied Mathematical Sciences,j323,['Mathematics']
+IEEE Control Systems,j334,['Mathematics']
+Journal of manufacturing science and engineering,j284,['Materials Science']
+Social Science Research Network,j40,"['Business', 'Psychology', 'Economics', 'Political Science']"
+American Journal of Political Science,j109,['Political Science']
+Political Analysis,j110,['Political Science']
+Science Education,j88,['Psychology']
+The Journal of the Learning Sciences,j31,['Sociology']
+"Science, Technology and Human Values",j50,['Sociology']
+Frontiers in Environmental Science,j26,['Sociology']
+Big Data & Society,j38,"['Sociology', 'Business']"
+Sustainability Science,j122,['Business']
+Frontiers in Earth Science,j134,['Business']
+EOS,j82,['Geology']
