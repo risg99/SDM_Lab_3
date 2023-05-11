@@ -114,11 +114,6 @@ def createTBOX():
 	graph.add((LAB.Venue, RDF.type, RDFS.Class))
 	graph.add((LAB.Venue, RDFS.label, Literal("Venue")))
 
-	graph.add((LAB.venueRelatedTo, RDF.type, RDF.Property))
-	graph.add((LAB.venueRelatedTo, RDFS.domain, LAB.Venue))
-	graph.add((LAB.venueRelatedTo, RDFS.range, LAB.SubjectDomain))
-	graph.add((LAB.venueRelatedTo, RDFS.label, Literal("venueRelatedTo")))
-
 	# SubClasses of Venue
 	# 3.1) Journal
 	graph.add((LAB.Journal, RDF.type, RDFS.Class))
@@ -188,6 +183,11 @@ def createTBOX():
 	graph.add((LAB.proceedingYear, RDFS.domain, LAB.Proceedings))
 	graph.add((LAB.proceedingYear, RDFS.range, XSD.int))
 	graph.add((LAB.proceedingYear, RDFS.label, Literal("proceedingYear")))
+    
+	graph.add((LAB.proceedingRelatedTo, RDF.type, RDF.Property))
+	graph.add((LAB.proceedingRelatedTo, RDFS.domain, LAB.Proceedings))
+	graph.add((LAB.proceedingRelatedTo, RDFS.range, LAB.SubjectDomain))
+	graph.add((LAB.proceedingRelatedTo, RDFS.label, Literal("proceedingRelatedTo")))
 
 	graph.add((LAB.Volume, RDF.type, RDFS.Class))
 	graph.add((LAB.Volume, RDFS.label, Literal("Volume")))
@@ -202,6 +202,11 @@ def createTBOX():
 	graph.add((LAB.volumeYear, RDFS.domain, LAB.Volume))
 	graph.add((LAB.volumeYear, RDFS.range, XSD.int))
 	graph.add((LAB.volumeYear, RDFS.label, Literal("volumeYear")))
+    
+	graph.add((LAB.volumeRelatedTo, RDF.type, RDF.Property))
+	graph.add((LAB.volumeRelatedTo, RDFS.domain, LAB.Volume))
+	graph.add((LAB.volumeRelatedTo, RDFS.range, LAB.SubjectDomain))
+	graph.add((LAB.volumeRelatedTo, RDFS.label, Literal("volumeRelatedTo")))
 
 	# --------------------- 4) SubjectDomain Super Class --------------------------- #
 	graph.add((LAB.SubjectDomain, RDF.type, RDFS.Class))
@@ -212,9 +217,6 @@ def createTBOX():
 	graph.add((LAB.keywords, RDFS.domain, LAB.SubjectDomain))
 	graph.add((LAB.keywords, RDFS.range, XSD.string))
 	graph.add((LAB.keywords, RDFS.label, Literal("keywords")))
-
-	paper -> 'db',
-	paper -> mobilitydb, ml
 
 	# --------------------- 5) Review related Classes --------------------------- #
 	graph.add((LAB.ReviewText, RDF.type, RDFS.Class))

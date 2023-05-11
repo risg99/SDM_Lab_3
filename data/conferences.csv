@@ -1,4 +1,4 @@
-cId,cUrlId,cTitle,cType,cProceedings
+conferenceId,conferenceUrl,conferenceTitle,conferenceType,conferenceProceedings
 c0,b55b50b1-aae7-47a7-b042-8aecc930073d,International Conference on Human Factors in Computing Systems,symposium,10
 c1,2c9ecac6-f875-4a9b-acc2-10bd9f6782df,Technical Symposium on Computer Science Education,workshop,1
 c2,c85dfc25-bcef-4719-9997-f41ad334d998,International Symposium on Intelligent Data Analysis,symposium,7

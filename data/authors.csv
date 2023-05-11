@@ -1,4 +1,4 @@
-aId,aUrlId,aName
+authorId,authorUrl,authorName
 a0,6391996,E. Bolyen
 a1,6307534,J. Rideout
 a2,40950692,Matthew R. Dillon
@@ -1598,16 +1598,16 @@ a1595,1414117800,G. Yom-Tov
 a1596,5907934,S. Pesant
 a1597,2158864,F. Not
 a1598,4157832,M. Picheral
-a1599,,Stefanie Kandels-Lewis
+a1599,None,Stefanie Kandels-Lewis
 a1600,10999799,Noan Le Bescot
-a1601,,Gabriel Gorsky
+a1601,None,Gabriel Gorsky
 a1602,4206582,D. Iudicone
 a1603,4192764,E. Karsenti
 a1604,2154189,S. Speich
 a1605,3664262,R. Troublé
 a1606,6434378,Céline Dimier
 a1607,4309482,S. Searson
-a1608,,Silvia G. Peer Emmanuel Chris Colomban De Michael Gabriel Acinas Bork Boss Bowler Vargas Follows Gorsky Grim
+a1608,None,Silvia G. Peer Emmanuel Chris Colomban De Michael Gabriel Acinas Bork Boss Bowler Vargas Follows Gorsky Grim
 a1609,6119340,S. Acinas
 a1610,3534315,P. Bork
 a1611,145213927,E. Boss
@@ -4457,8 +4457,8 @@ a4454,1754832,K. Miller
 a4455,37672083,S. Rogerson
 a4456,1726629,D. Parnas
 a4457,2319912,William M. Thomas
-a4458,,D.H. Kitson
-a4459,,T.C. Kasse
+a4458,None,D.H. Kitson
+a4459,None,T.C. Kasse
 a4460,1788542,M. Zelkowitz
 a4461,145863623,C. Floyd
 a4462,1711711,Du Zhang
@@ -5109,7 +5109,7 @@ a5106,2058459677,Aimin Shi
 a5107,2150924905,Rui Li
 a5108,2108941558,Yiqiu Wang
 a5109,2153687804,Xin Wang
-a5110,,Jing Zhao
+a5110,None,Jing Zhao
 a5111,2449132,Jochen Singer
 a5112,49169522,A. Irmisch
 a5113,47271346,Hans-Joachim Ruscheweyh
@@ -8055,7 +8055,7 @@ a8052,39934542,Benjamin Moody
 a8053,1679873,Peter Szolovits
 a8054,143605744,L. Celi
 a8055,1978710,R. Mark
-a8056,,Richa Tanya Jeff Dennis A Colleen Evan Devon J Rodney St Agarwala Barrett Beck Benson Bollin Bolton Bourexi
+a8056,None,Richa Tanya Jeff Dennis A Colleen Evan Devon J Rodney St Agarwala Barrett Beck Benson Bollin Bolton Bourexi
 a8057,144060663,R. Agarwala
 a8058,49588046,T. Barrett
 a8059,2065113442,J. Beck
@@ -8788,7 +8788,7 @@ a8785,6511503,A. van Knippenberg
 a8786,3274166,L. Daugherty
 a8787,3214004,S. Hunter
 a8788,3110563,C. McAnulla
-a8789,,Conor McMenamin
+a8789,None,Conor McMenamin
 a8790,1779954,Sebastien Pesseat
 a8791,1793280,Maxim Scheremetjew
 a8792,50401589,C. Rato
@@ -9670,14 +9670,14 @@ a9667,46343615,A. Moniruzzaman
 a9668,47867495,S. A. Hossain
 a9669,51930576,J. Dewitz
 a9670,49848237,J. Fry
-a9671,,Nazmul Hossain
+a9671,None,Nazmul Hossain
 a9672,2055419671,Charles Larson
 a9673,3805083,A. McKerrow
 a9674,108089319,J. N. VanDriel
 a9675,2431451,J. Wickham
 a9676,145078427,P. Bucher
 a9677,2274743,Hakan Hacigümüs
-a9678,,Chen Li
+a9678,None,Chen Li
 a9679,144156242,S. Mehrotra
 a9680,1775111,K. Eswaran
 a9681,3042091,I. Traiger
