@@ -1,0 +1,237 @@
+@prefix lab: <http://SDM_LAB3.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+lab:Author a rdfs:Class ;
+    rdfs:label "Author" ;
+    rdfs:subClassOf lab:Person .
+
+lab:Chair a rdfs:Class ;
+    rdfs:label "Chair" ;
+    rdfs:subClassOf lab:Handler .
+
+lab:Conference a rdfs:Class ;
+    rdfs:label "Conference" ;
+    rdfs:subClassOf lab:Venue .
+
+lab:DemoPaper a rdfs:Class ;
+    rdfs:label "DemoPaper" ;
+    rdfs:subClassOf lab:Paper .
+
+lab:Editor a rdfs:Class ;
+    rdfs:label "Editor" ;
+    rdfs:subClassOf lab:Handler .
+
+lab:ExpertGroup a rdfs:Class ;
+    rdfs:label "ExpertGroup" ;
+    rdfs:subClassOf lab:Conference .
+
+lab:FinalPaper a rdfs:Class ;
+    rdfs:label "FinalPaper" .
+
+lab:FullPaper a rdfs:Class ;
+    rdfs:label "FullPaper" ;
+    rdfs:subClassOf lab:Paper .
+
+lab:Handler a rdfs:Class ;
+    rdfs:label "Handler" ;
+    rdfs:subClassOf lab:Person .
+
+lab:Journal a rdfs:Class ;
+    rdfs:label "Journal" ;
+    rdfs:subClassOf lab:Venue .
+
+lab:Paper a rdfs:Class ;
+    rdfs:label "Paper" .
+
+lab:Person a rdfs:Class ;
+    rdfs:label "Person" .
+
+lab:Poster a rdfs:Class ;
+    rdfs:label "Poster" ;
+    rdfs:subClassOf lab:Paper .
+
+lab:Proceedings a rdfs:Class ;
+    rdfs:label "Proceedings" .
+
+lab:RegularConference a rdfs:Class ;
+    rdfs:label "RegularConference" ;
+    rdfs:subClassOf lab:Conference .
+
+lab:ReviewText a rdfs:Class ;
+    rdfs:label "ReviewText" .
+
+lab:Reviewer a rdfs:Class ;
+    rdfs:label "Reviewer" ;
+    rdfs:subClassOf lab:Person .
+
+lab:ShortPaper a rdfs:Class ;
+    rdfs:label "ShortPaper" ;
+    rdfs:subClassOf lab:Paper .
+
+lab:SubjectDomain a rdfs:Class ;
+    rdfs:label "SubjectDomain" .
+
+lab:SubmittedPaper a rdfs:Class ;
+    rdfs:label "SubmittedPaper" .
+
+lab:Symposium a rdfs:Class ;
+    rdfs:label "Symposium" ;
+    rdfs:subClassOf lab:Conference .
+
+lab:Venue a rdfs:Class ;
+    rdfs:label "Venue" .
+
+lab:Volume a rdfs:Class ;
+    rdfs:label "Volume" .
+
+lab:Workshop a rdfs:Class ;
+    rdfs:label "Workshop" ;
+    rdfs:subClassOf lab:Conference .
+
+lab:assigns a rdf:Property ;
+    rdfs:label "assigns" ;
+    rdfs:domain lab:Handler ;
+    rdfs:range lab:Reviewer .
+
+lab:authorName a rdf:Property ;
+    rdfs:label "authorName" ;
+    rdfs:domain lab:Author ;
+    rdfs:range xsd:string .
+
+lab:comment a rdf:Property ;
+    rdfs:label "comment" ;
+    rdfs:domain lab:ReviewText ;
+    rdfs:range xsd:string .
+
+lab:conferenceTitle a rdf:Property ;
+    rdfs:label "conferenceTitle" ;
+    rdfs:domain lab:Conference ;
+    rdfs:range xsd:string .
+
+lab:decision a rdf:Property ;
+    rdfs:label "decision" ;
+    rdfs:domain lab:ReviewText ;
+    rdfs:range xsd:boolean .
+
+lab:handleConference a rdf:Property ;
+    rdfs:label "handleConference" ;
+    rdfs:domain lab:Chair ;
+    rdfs:range lab:Conference .
+
+lab:handleJournal a rdf:Property ;
+    rdfs:label "handleJournal" ;
+    rdfs:domain lab:Editor ;
+    rdfs:range lab:Journal .
+
+lab:isAs a rdf:Property ;
+    rdfs:label "isAs" ;
+    rdfs:domain lab:SubmittedPaper ;
+    rdfs:range lab:FinalPaper .
+
+lab:isIn a rdf:Property ;
+    rdfs:label "isIn" ;
+    rdfs:domain lab:Conference ;
+    rdfs:range lab:Proceedings .
+
+lab:isOf a rdf:Property ;
+    rdfs:label "isOf" ;
+    rdfs:domain lab:Journal ;
+    rdfs:range lab:Volume .
+
+lab:isPublishedInConference a rdf:Property ;
+    rdfs:label "isPublishedInConference" ;
+    rdfs:domain lab:FinalPaper ;
+    rdfs:range lab:Proceedings .
+
+lab:isPublishedInJournal a rdf:Property ;
+    rdfs:label "isPublishedInJournal" ;
+    rdfs:domain lab:FinalPaper ;
+    rdfs:range lab:Volume .
+
+lab:isReviewOf a rdf:Property ;
+    rdfs:label "isReviewOf" ;
+    rdfs:domain lab:ReviewText ;
+    rdfs:range lab:SubmittedPaper .
+
+lab:isSubmittedTo a rdf:Property ;
+    rdfs:label "isSubmittedTo" ;
+    rdfs:domain lab:SubmittedPaper ;
+    rdfs:range lab:Venue .
+
+lab:journalTitle a rdf:Property ;
+    rdfs:label "journalTitle" ;
+    rdfs:domain lab:Journal ;
+    rdfs:range xsd:string .
+
+lab:keywords a rdf:Property ;
+    rdfs:label "keywords" ;
+    rdfs:domain lab:SubjectDomain ;
+    rdfs:range xsd:string .
+
+lab:paperAbstract a rdf:Property ;
+    rdfs:label "paperAbstract" ;
+    rdfs:domain lab:Paper ;
+    rdfs:range xsd:string .
+
+lab:paperAcceptanceDate a rdf:Property ;
+    rdfs:label "paperAcceptanceDate" ;
+    rdfs:domain lab:FinalPaper ;
+    rdfs:range xsd:date .
+
+lab:paperRelatedTo a rdf:Property ;
+    rdfs:label "paperRelatedTo" ;
+    rdfs:domain lab:Paper ;
+    rdfs:range lab:SubjectDomain .
+
+lab:paperTitle a rdf:Property ;
+    rdfs:label "paperTitle" ;
+    rdfs:domain lab:Paper ;
+    rdfs:range xsd:string .
+
+lab:proceedingName a rdf:Property ;
+    rdfs:label "proceedingName" ;
+    rdfs:domain lab:Proceedings ;
+    rdfs:range xsd:string .
+
+lab:proceedingRelatedTo a rdf:Property ;
+    rdfs:label "proceedingRelatedTo" ;
+    rdfs:domain lab:Proceedings ;
+    rdfs:range lab:SubjectDomain .
+
+lab:proceedingYear a rdf:Property ;
+    rdfs:label "proceedingYear" ;
+    rdfs:domain lab:Proceedings ;
+    rdfs:range xsd:int .
+
+lab:reviewed a rdf:Property ;
+    rdfs:label "reviewed" ;
+    rdfs:domain lab:Reviewer ;
+    rdfs:range lab:ReviewText .
+
+lab:submitted a rdf:Property ;
+    rdfs:label "submitted" ;
+    rdfs:domain lab:Paper ;
+    rdfs:range lab:SubmittedPaper .
+
+lab:volumeName a rdf:Property ;
+    rdfs:label "volumeName" ;
+    rdfs:domain lab:Volume ;
+    rdfs:range xsd:string .
+
+lab:volumeRelatedTo a rdf:Property ;
+    rdfs:label "volumeRelatedTo" ;
+    rdfs:domain lab:Volume ;
+    rdfs:range lab:SubjectDomain .
+
+lab:volumeYear a rdf:Property ;
+    rdfs:label "volumeYear" ;
+    rdfs:domain lab:Volume ;
+    rdfs:range xsd:int .
+
+lab:writes a rdf:Property ;
+    rdfs:label "writes" ;
+    rdfs:domain lab:Author ;
+    rdfs:range lab:Paper .
+
