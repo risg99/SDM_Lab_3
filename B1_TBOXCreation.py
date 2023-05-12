@@ -288,5 +288,4 @@ def createTBOX():
 graph = createTBOX()
 
 # Print out the entire Graph in the RDF Turtle format
-print(graph.serialize(format="ttl"))
-
+print(graph.serialize('data/tbox.ttl',format="ttl"))
