@@ -51,7 +51,7 @@ with open('data/papers.csv') as papers:
         graph.add((id, B1_TBOXCreation.LAB.paperAbstract, abstract))
 
 print(g.serialize())
-g.serialize(destination="abox.ttl", format="ttl")
+g.serialize(destination="data/abox_tbox_connection.ttl", format="ttl")
 
 # Process each CSV file
 # csv_files = ['file1.csv', 'file2.csv', 'file3.csv']
