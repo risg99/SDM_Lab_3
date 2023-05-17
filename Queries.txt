@@ -43,28 +43,27 @@ WHERE
 # TODO
 4. Find all the papers written by a given author that where published in database conferences.
 
+
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX lab: <http://SDM_LAB3.org/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-SELECT ?papers
+SELECT ?paper ?subject ?submittedPaper
 WHERE
 {
     ?paper      rdf:type        lab:Paper ;
                 lab:submitted   ?submittedPaper .
 
     ?author     rdf:type        lab:Author ;
-    		    lab:authorName   "Wil M.P. van der Aalst" ;
-                lab:writes 		?paper .
+                lab:authorName   "F. Allen" ;
+                lab:writes      ?paper .
 
     ?submittedPaper rdf:type    lab:SubmittedPaper ;
-                    lab:isAs	?finalPaper .
+                    lab:isAs    ?finalPaper .
+  
+    ?finalPaper lab:isPublishedInConference    ?proceedings .
     
-    ?finalPaper lab:isPublishedIn    ?proceedings .
-
-    ?proceedings      rdf:type        lab:Conference ;
-                lab:proceedingRelatedTo      ?subject .
-
-    ?subject    rdf:type        lab:SubjectDomain ;
-                rdfs:label      "engineering" .
+    ?proceedings  lab:proceedingRelatedTo   ?subject.
+    ?subject rdf:type lab:SubjectDomain .
+    ?subject lab:keywords "Database" .
 }
