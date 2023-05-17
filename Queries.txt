@@ -68,4 +68,3 @@ WHERE
     ?subject    rdf:type        lab:SubjectDomain ;
                 rdfs:label      "engineering" .
 }
-
