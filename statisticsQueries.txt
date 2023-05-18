@@ -1,0 +1,73 @@
+Some queries for calculating statistics for the graph:
+
+=========================================================
+A) Which classes are declared for this dataset?
+
+SELECT distinct ?class
+FROM <http://SDM_LAB3.org/>
+WHERE {
+    ?class a rdfs:Class
+}
+order by ?class
+
+------------------  Output: 24  -------------------------
+=========================================================
+
+
+B) What are the total number of triples in this data?
+
+SELECT (COUNT(*) as ?Triples) 
+FROM <http://SDM_LAB3.org/>
+WHERE { 
+    ?s ?p ?o 
+} 
+
+------------------  Output: 163202-----------------------
+=========================================================
+
+
+C) What is the total count of properties in the data?
+
+SELECT  (COUNT(DISTINCT ?p) AS ?cnt)
+FROM <http://SDM_LAB3.org/>
+WHERE{ 
+    ?s ?p ?o
+}
+
+-------------------  Output: 34 -------------------------
+=========================================================
+
+
+D) What is the total count of instances in here?
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX lab: <http://SDM_LAB3.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT (COUNT(?s) AS ?totalNumberOfInstances)
+FROM <http://SDM_LAB3.org/>
+WHERE { 
+    ?s rdf:type ?class .
+    ?class rdf:type rdfs:Class . 
+} 
+
+-------------------  Output: 30643 ----------------------
+=========================================================
+
+
+E) What is count of instances per class in this data?
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX lab: <http://SDM_LAB3.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?class (COUNT(?s) AS ?totalNumberOfInstances)
+FROM <http://SDM_LAB3.org/>
+WHERE { 
+    ?s rdf:type ?class .
+    ?class rdf:type rdfs:Class . 
+} 
+GROUP BY ?class
+ORDER BY DESC(?totalNumberOfInstances)
+
+=========================================================
